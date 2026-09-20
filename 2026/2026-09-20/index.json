@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "written_at": "2026-09-20T17:39:22",
+  "written_at": "2026-09-20T17:39:51",
   "garmin": [
     "2026-09-20_24433560349"
   ],
@@ -76,6 +76,5 @@
   "files": [
     "auswertung.md",
     "coach.txt"
-  ],
-  "note": "Hyrox Long Distanz: Bike 10k, 5x(1k Ski + 1k Row), Bike 10k. RPE 5."
+  ]
 }
