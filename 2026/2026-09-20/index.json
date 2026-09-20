@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-20",
+  "written_at": "2026-09-20T17:39:22",
+  "garmin": [
+    "2026-09-20_24433560349"
+  ],
+  "concept2": [
+    "2026-09-20_120785672",
+    "2026-09-20_120786287",
+    "2026-09-20_foto-20260920-1528",
+    "2026-09-20_foto-20260920-1609",
+    "2026-09-20_long_distanz_kombiniert.md"
+  ],
+  "fotos": [
+    {
+      "file": "2026-09-20_foto-01.jpg",
+      "description": "Coach-Plan SSP LT1 (Long Distanz), TrainHeroic",
+      "sha1": "cf0a6b1327f6",
+      "source": "7e7422bb-image.jpg"
+    },
+    {
+      "file": "2026-09-20_foto-02.jpg",
+      "description": "Coach-Zonen Pace (Schwelle 4:17), aus Eingangstest 09.06.",
+      "sha1": "763900893a37",
+      "source": "629129b5-image.jpg"
+    },
+    {
+      "file": "2026-09-20_foto-03.jpg",
+      "description": "Coach-Zonen Herzfrequenz (LTHR 174)",
+      "sha1": "64565c9d7bed",
+      "source": "4111329d-image.jpg"
+    },
+    {
+      "file": "2026-09-20_foto-04.jpg",
+      "description": "PM5 RowErg 5x1000m, Intervalle 1-4",
+      "sha1": "0ac20a14968e",
+      "source": "9f75ee86-image.jpg"
+    },
+    {
+      "file": "2026-09-20_foto-05.jpg",
+      "description": "PM5 RowErg 5x1000m, Intervalle 2-5",
+      "sha1": "9619be648ce8",
+      "source": "baad2c39-image.jpg"
+    },
+    {
+      "file": "2026-09-20_foto-06.jpg",
+      "description": "PM5 SkiErg 5x1000m, Intervalle 1-4",
+      "sha1": "5007b6b06724",
+      "source": "b3eb9d02-image.jpg"
+    },
+    {
+      "file": "2026-09-20_foto-07.jpg",
+      "description": "PM5 SkiErg 5x1000m, Intervalle 2-5",
+      "sha1": "18ad20089a9c",
+      "source": "2c89f134-image.jpg"
+    },
+    {
+      "file": "2026-09-20_foto-08.jpg",
+      "description": "PM5 BikeErg 10 km, Bike 1 (PM5-Datum 21.09. falsch)",
+      "sha1": "2cf8c1527749",
+      "source": "06062843-image.jpg"
+    },
+    {
+      "file": "2026-09-20_foto-09.jpg",
+      "description": "PM5 BikeErg 10 km, Bike 2",
+      "sha1": "64f6cdd3e189",
+      "source": "539558c6-image.jpg"
+    },
+    {
+      "file": "2026-09-20_foto-10.jpg",
+      "description": "PM5 BikeErg Liste (zwei 10 km am 20./21.)",
+      "sha1": "9cc49f2d15f8",
+      "source": "33cba76f-image.jpg"
+    }
+  ],
+  "files": [
+    "auswertung.md",
+    "coach.txt"
+  ],
+  "note": "Hyrox Long Distanz: Bike 10k, 5x(1k Ski + 1k Row), Bike 10k. RPE 5."
+}

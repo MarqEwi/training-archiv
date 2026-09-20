@@ -1,0 +1,92 @@
+{
+  "id": "foto-20260920-1609",
+  "date": "2026-09-20 16:09:00",
+  "timezone": "Europe/Berlin",
+  "type": "skierg",
+  "distance": 5000,
+  "time": 12975,
+  "time_formatted": "21:37.5",
+  "workout_type": "VariableInterval",
+  "source": "PM5-Foto (manuell)",
+  "verified": false,
+  "stroke_rate": 39,
+  "drag_factor": null,
+  "rest_time": 17230,
+  "rest_distance": 66,
+  "stroke_data": false,
+  "heart_rate": {
+    "average": 154,
+    "max": 163
+  },
+  "comments": "PM5-Foto, Hyrox Long Distanz, Runden 1-5 Ski",
+  "workout": {
+    "splits": [],
+    "intervals": [
+      {
+        "type": "distance",
+        "time": 2571,
+        "distance": 1000,
+        "calories_total": null,
+        "stroke_rate": 43,
+        "heart_rate": {
+          "average": 142,
+          "max": 155
+        },
+        "rest_time": 2900,
+        "rest_distance": 13
+      },
+      {
+        "type": "distance",
+        "time": 2527,
+        "distance": 1000,
+        "calories_total": null,
+        "stroke_rate": 39,
+        "heart_rate": {
+          "average": 157,
+          "max": 159
+        },
+        "rest_time": 3030,
+        "rest_distance": 17
+      },
+      {
+        "type": "distance",
+        "time": 2591,
+        "distance": 1000,
+        "calories_total": null,
+        "stroke_rate": 38,
+        "heart_rate": {
+          "average": 154,
+          "max": 158
+        },
+        "rest_time": 2630,
+        "rest_distance": 8
+      },
+      {
+        "type": "distance",
+        "time": 2617,
+        "distance": 1000,
+        "calories_total": null,
+        "stroke_rate": 38,
+        "heart_rate": {
+          "average": 159,
+          "max": 162
+        },
+        "rest_time": 2670,
+        "rest_distance": 15
+      },
+      {
+        "type": "distance",
+        "time": 2669,
+        "distance": 1000,
+        "calories_total": null,
+        "stroke_rate": 38,
+        "heart_rate": {
+          "average": 160,
+          "max": 163
+        },
+        "rest_time": 6000,
+        "rest_distance": 13
+      }
+    ]
+  }
+}

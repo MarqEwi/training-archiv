@@ -1,0 +1,42 @@
+{
+  "type": "bike",
+  "date": "2026-09-20 15:28",
+  "comments": "PM5-Foto, Hyrox Long Distanz, Bike 1 (PM5-Datum 21.09. falsch)",
+  "splits": [
+    {
+      "time": "4:32.2",
+      "distance": 2000,
+      "spm": 66,
+      "hr_avg": 98,
+      "hr_max": 118
+    },
+    {
+      "time": "4:07.6",
+      "distance": 2000,
+      "spm": 72,
+      "hr_avg": 122,
+      "hr_max": 129
+    },
+    {
+      "time": "4:08.8",
+      "distance": 2000,
+      "spm": 72,
+      "hr_avg": 128,
+      "hr_max": 131
+    },
+    {
+      "time": "4:09.2",
+      "distance": 2000,
+      "spm": 72,
+      "hr_avg": 130,
+      "hr_max": 138
+    },
+    {
+      "time": "4:12.3",
+      "distance": 2000,
+      "spm": 71,
+      "hr_avg": 130,
+      "hr_max": 134
+    }
+  ]
+}

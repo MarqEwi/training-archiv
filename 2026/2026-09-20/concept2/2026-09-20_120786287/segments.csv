@@ -1,0 +1,6 @@
+nr,kind,type,start_s,time_s,distance_m,pace_s,pace_str,watts,spm,hr_avg,hr_min,hr_max,hr_end,hr_start_strokes,hr_end_strokes,hr_rise,rest_time_s,rest_distance_m,calories
+1,split,,0.0,261.8,2000.0,130.9,2:10.9,,68,,,,,,,,0.0,0.0,60
+2,split,,261.8,254.8,2000.0,127.4,2:07.4,,70,,,,,,,,0.0,0.0,62
+3,split,,516.6,256.0,2000.0,128.0,2:08.0,,70,,,,,,,,0.0,0.0,62
+4,split,,772.6,251.8,2000.0,125.9,2:05.9,,71,,,,,,,,0.0,0.0,63
+5,split,,1024.4,244.6,2000.0,122.3,2:02.3,,73,,,,,,,,0.0,0.0,65

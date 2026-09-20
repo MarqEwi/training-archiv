@@ -1,0 +1,52 @@
+{
+  "type": "skierg",
+  "date": "2026-09-20 16:09",
+  "comments": "PM5-Foto, Hyrox Long Distanz, Runden 1-5 Ski",
+  "intervals": [
+    {
+      "time": "4:17.1",
+      "distance": 1000,
+      "spm": 43,
+      "rest": "4:50",
+      "rest_distance": 13,
+      "hr_avg": 142,
+      "hr_max": 155
+    },
+    {
+      "time": "4:12.7",
+      "distance": 1000,
+      "spm": 39,
+      "rest": "5:03",
+      "rest_distance": 17,
+      "hr_avg": 157,
+      "hr_max": 159
+    },
+    {
+      "time": "4:19.1",
+      "distance": 1000,
+      "spm": 38,
+      "rest": "4:23",
+      "rest_distance": 8,
+      "hr_avg": 154,
+      "hr_max": 158
+    },
+    {
+      "time": "4:21.7",
+      "distance": 1000,
+      "spm": 38,
+      "rest": "4:27",
+      "rest_distance": 15,
+      "hr_avg": 159,
+      "hr_max": 162
+    },
+    {
+      "time": "4:26.9",
+      "distance": 1000,
+      "spm": 38,
+      "rest": "10:00",
+      "rest_distance": 13,
+      "hr_avg": 160,
+      "hr_max": 163
+    }
+  ]
+}

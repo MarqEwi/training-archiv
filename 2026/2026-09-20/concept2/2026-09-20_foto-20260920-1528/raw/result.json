@@ -1,0 +1,82 @@
+{
+  "id": "foto-20260920-1528",
+  "date": "2026-09-20 15:28:00",
+  "timezone": "Europe/Berlin",
+  "type": "bike",
+  "distance": 10000,
+  "time": 12701,
+  "time_formatted": "21:10.1",
+  "workout_type": "FixedDistanceSplits",
+  "source": "PM5-Foto (manuell)",
+  "verified": false,
+  "stroke_rate": 71,
+  "drag_factor": null,
+  "rest_time": 0,
+  "rest_distance": 0,
+  "stroke_data": false,
+  "heart_rate": {
+    "average": 121,
+    "max": 138
+  },
+  "comments": "PM5-Foto, Hyrox Long Distanz, Bike 1 (PM5-Datum 21.09. falsch)",
+  "workout": {
+    "splits": [
+      {
+        "type": "distance",
+        "time": 2722,
+        "distance": 2000,
+        "calories_total": null,
+        "stroke_rate": 66,
+        "heart_rate": {
+          "average": 98,
+          "max": 118
+        }
+      },
+      {
+        "type": "distance",
+        "time": 2476,
+        "distance": 2000,
+        "calories_total": null,
+        "stroke_rate": 72,
+        "heart_rate": {
+          "average": 122,
+          "max": 129
+        }
+      },
+      {
+        "type": "distance",
+        "time": 2488,
+        "distance": 2000,
+        "calories_total": null,
+        "stroke_rate": 72,
+        "heart_rate": {
+          "average": 128,
+          "max": 131
+        }
+      },
+      {
+        "type": "distance",
+        "time": 2492,
+        "distance": 2000,
+        "calories_total": null,
+        "stroke_rate": 72,
+        "heart_rate": {
+          "average": 130,
+          "max": 138
+        }
+      },
+      {
+        "type": "distance",
+        "time": 2523,
+        "distance": 2000,
+        "calories_total": null,
+        "stroke_rate": 71,
+        "heart_rate": {
+          "average": 130,
+          "max": 134
+        }
+      }
+    ],
+    "intervals": []
+  }
+}
