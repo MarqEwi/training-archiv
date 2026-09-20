@@ -1,6 +1,7 @@
 {
   "date": "2026-09-21",
-  "written_at": "2026-09-20T17:39:28",
+  "titel": "Hyrox RP Workout",
+  "written_at": "2026-09-20T17:44:45",
   "garmin": [],
   "concept2": [],
   "fotos": [
@@ -11,6 +12,5 @@
       "source": "ba8fd41a-image.jpg"
     }
   ],
-  "files": [],
-  "note": "Geplant: NXT LVL Hyrox RP Workout, Garmin 1703599385"
+  "files": []
 }
