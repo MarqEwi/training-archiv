@@ -1,0 +1,18 @@
+TRAININGSZONEN (GRUNDLAGEN) - Coach Engelhardt, TrainHeroic
+Stand: 01.06.2026 | Schwellentest: LTHR 174 bpm, Schwellenpace 4:17 min/km
+
+LAUFZONEN: PACE (Schwelle 4:17 min/km)
+Zone 1 (Regeneration):       langsamer als 5:31 min/km
+Zone 2 (Grundlagenausdauer): 4:53 - 5:31 min/km
+Zone 3 (Tempo):              4:32 - 4:51 min/km
+Zone 4 (Schwelle):           4:14 - 4:30 min/km
+Zone 5 (VO2max / Anaerob):   schneller als 4:14 min/km
+
+AUSWERTUNG: HERZFREQUENZ (LTHR 174 bpm)
+Zone 1 (Regeneration):       < 148 bpm
+Zone 2 (Grundlagenausdauer): 148 - 155 bpm
+Zone 3 (Tempo):              157 - 164 bpm
+Zone 4 (Schwelle):           165 - 172 bpm
+Zone 5 (VO2max / Anaerob):   > 172 bpm
+
+Quelle: fotos/2026-06-01_foto-01.jpg (Pace, Block B), fotos/2026-06-01_foto-02.jpg (HF, Block A)
