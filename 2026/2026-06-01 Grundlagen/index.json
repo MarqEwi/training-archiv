@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-01",
+  "titel": "Grundlagen",
+  "written_at": "2026-09-21T07:26:27",
+  "garmin": [],
+  "concept2": [],
+  "fotos": [
+    {
+      "file": "2026-06-01_foto-01.jpg",
+      "description": "TrainHeroic Block B: Laufzonen Pace, Schwelle 4:17 min/km (Coach Engelhardt)",
+      "sha1": "763900893a37",
+      "source": "56677fb8-image.jpg"
+    },
+    {
+      "file": "2026-06-01_foto-02.jpg",
+      "description": "TrainHeroic Block A: Herzfrequenz-Zonen, LTHR 174 bpm (Coach Engelhardt)",
+      "sha1": "64565c9d7bed",
+      "source": "6fe7c693-image.jpg"
+    }
+  ],
+  "files": [
+    "auswertung.md"
+  ],
+  "note": "Grundlagen: Coach-Trainingszonen Pace und HF aus TrainHeroic"
+}
