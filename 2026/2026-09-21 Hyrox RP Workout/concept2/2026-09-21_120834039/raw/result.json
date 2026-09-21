@@ -1,0 +1,101 @@
+{
+  "id": 120834039,
+  "user_id": 1159088,
+  "date": "2026-09-21 21:42:00",
+  "timezone": "Europe/Berlin",
+  "date_utc": "2026-09-21 19:42:00",
+  "distance": 8842,
+  "type": "bike",
+  "time": 12000,
+  "time_formatted": "20:00.0",
+  "workout_type": "FixedTimeSplits",
+  "source": "ErgData Android",
+  "weight_class": null,
+  "verified": false,
+  "ranked": false,
+  "comments": null,
+  "privacy": "everyone",
+  "stroke_data": true,
+  "calories_total": 258,
+  "drag_factor": 75,
+  "stroke_count": 1463,
+  "stroke_rate": 73,
+  "workout": {
+    "splits": [
+      {
+        "time": 2400,
+        "distance": 1684,
+        "calories_total": 47,
+        "stroke_rate": 69,
+        "heart_rate": {
+          "average": 0,
+          "min": 0,
+          "max": 0,
+          "ending": 0,
+          "recovery": 0,
+          "rest": 0
+        }
+      },
+      {
+        "time": 2400,
+        "distance": 1722,
+        "calories_total": 49,
+        "stroke_rate": 71,
+        "heart_rate": {
+          "average": 0,
+          "min": 0,
+          "max": 0,
+          "ending": 0,
+          "recovery": 0,
+          "rest": 0
+        }
+      },
+      {
+        "time": 2400,
+        "distance": 1783,
+        "calories_total": 52,
+        "stroke_rate": 74,
+        "heart_rate": {
+          "average": 0,
+          "min": 0,
+          "max": 0,
+          "ending": 0,
+          "recovery": 0,
+          "rest": 0
+        }
+      },
+      {
+        "time": 2400,
+        "distance": 1799,
+        "calories_total": 53,
+        "stroke_rate": 74,
+        "heart_rate": {
+          "average": 0,
+          "min": 0,
+          "max": 0,
+          "ending": 0,
+          "recovery": 0,
+          "rest": 0
+        }
+      },
+      {
+        "time": 2400,
+        "distance": 1854,
+        "calories_total": 57,
+        "stroke_rate": 77,
+        "heart_rate": {
+          "average": 0,
+          "min": 0,
+          "max": 0,
+          "ending": 0,
+          "recovery": 0,
+          "rest": 0
+        }
+      }
+    ],
+    "targets": {
+      "heart_rate_zone": 0
+    }
+  },
+  "real_time": null
+}

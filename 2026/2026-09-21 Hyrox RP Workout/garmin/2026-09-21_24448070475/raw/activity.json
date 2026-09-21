@@ -1,0 +1,157 @@
+{
+  "activityId": 24448070475,
+  "activityUUID": {
+    "uuid": "0483bd28-9c6c-426d-9601-80b58d673f38"
+  },
+  "activityName": "NXT LVL Hyrox RP",
+  "userProfileId": 62802093,
+  "isMultiSportParent": false,
+  "activityTypeDTO": {
+    "typeId": 11,
+    "typeKey": "indoor_cardio",
+    "parentTypeId": 29,
+    "isHidden": false,
+    "restricted": false,
+    "trimmable": true
+  },
+  "eventTypeDTO": {
+    "typeId": 9,
+    "typeKey": "uncategorized",
+    "sortOrder": 10
+  },
+  "accessControlRuleDTO": {
+    "typeId": 1,
+    "typeKey": "public"
+  },
+  "timeZoneUnitDTO": {
+    "unitId": 124,
+    "unitKey": "Europe/Paris",
+    "factor": 0.0,
+    "timeZone": "Europe/Paris"
+  },
+  "metadataDTO": {
+    "isOriginal": true,
+    "deviceApplicationInstallationId": 918087,
+    "agentApplicationInstallationId": null,
+    "agentString": null,
+    "fileFormat": {
+      "formatId": 7,
+      "formatKey": "fit"
+    },
+    "associatedCourseId": null,
+    "lastUpdateDate": "2026-09-21T19:51:43.0",
+    "uploadedDate": "2026-09-21T19:51:42.0",
+    "videoUrl": null,
+    "hasPolyline": false,
+    "hasChartData": true,
+    "hasHrTimeInZones": true,
+    "hasPowerTimeInZones": false,
+    "userInfoDto": {
+      "userProfilePk": 62802093,
+      "displayname": "c0b62da5-3d7a-4865-855b-3e22d23382e5",
+      "fullname": "Marq Ewi",
+      "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/c713a865-5871-4f70-9e76-c8ffb0e6a73c-62802093.png",
+      "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/3e66e016-2307-4929-85a0-db1e85d14fd9-62802093.png",
+      "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/4e1a4352-9d83-4ced-935d-03f394e7aef7-62802093.png",
+      "userPro": false
+    },
+    "childIds": [],
+    "childActivityTypes": [],
+    "sensors": [
+      {
+        "manufacturer": "GARMIN",
+        "serialNumber": 3466525461,
+        "sku": "006-B4130-00",
+        "fitProductNumber": 4130,
+        "sourceType": "ANTPLUS",
+        "antplusDeviceType": "HEART_RATE",
+        "softwareVersion": 8.9,
+        "batteryStatus": "OK"
+      },
+      {
+        "manufacturer": "GARMIN",
+        "serialNumber": 3466525461,
+        "sku": "006-B4130-00",
+        "fitProductNumber": 4130,
+        "sourceType": "ANTPLUS",
+        "antplusDeviceType": "RUN",
+        "softwareVersion": 8.9,
+        "batteryStatus": "OK"
+      },
+      {
+        "manufacturer": "GARMIN",
+        "serialNumber": 3466525461,
+        "sku": "006-B4130-00",
+        "fitProductNumber": 4130,
+        "sourceType": "ANTPLUS",
+        "antplusDeviceType": "STRIDE_SPEED_DISTANCE",
+        "softwareVersion": 8.9
+      }
+    ],
+    "activityImages": [],
+    "manufacturer": "GARMIN",
+    "diveNumber": null,
+    "lapCount": 1,
+    "associatedWorkoutId": 1703599385,
+    "isAtpActivity": null,
+    "deviceMetaDataDTO": {
+      "deviceId": "3970442741",
+      "deviceTypePk": 34978,
+      "deviceVersionPk": 918087
+    },
+    "hasIntensityIntervals": false,
+    "hasSplits": false,
+    "eBikeMaxAssistModes": null,
+    "eBikeBatteryUsage": null,
+    "eBikeBatteryRemaining": null,
+    "eBikeAssistModeInfoDTOList": null,
+    "hasRunPowerWindData": null,
+    "calendarEventInfo": null,
+    "groupRideUUID": null,
+    "hasHeatMap": false,
+    "sessionResultType": "ORIGINAL",
+    "hasMultiDayActivities": false,
+    "thirdPartyGymEquipment": [],
+    "manualActivity": false,
+    "elevationCorrected": false,
+    "autoCalcCalories": false,
+    "favorite": false,
+    "trimmed": false,
+    "runPowerWindDataEnabled": null,
+    "personalRecord": false,
+    "gcj02": false
+  },
+  "summaryDTO": {
+    "startTimeLocal": "2026-09-21T20:29:47.0",
+    "startTimeGMT": "2026-09-21T18:29:47.0",
+    "distance": 6586.72,
+    "duration": 4439.519,
+    "movingDuration": 2933.0,
+    "elapsedDuration": 4439.519,
+    "elevationGain": 0.0,
+    "elevationLoss": 0.0,
+    "maxElevation": 130.0,
+    "minElevation": 121.0,
+    "avgElevation": 124.36,
+    "averageSpeed": 1.4839999675750732,
+    "averageMovingSpeed": 2.2457279968781965,
+    "maxSpeed": 3.47998046875,
+    "calories": 831.0,
+    "averageHR": 134.0,
+    "maxHR": 170.0,
+    "minHR": 68.0,
+    "averageTemperature": 28.32454954954955,
+    "maxTemperature": 32.0,
+    "minTemperature": 26.0,
+    "trainingEffect": 3.299999952316284,
+    "anaerobicTrainingEffect": 2.5999999046325684,
+    "aerobicTrainingEffectMessage": "IMPROVING_LACTATE_THRESHOLD_12",
+    "anaerobicTrainingEffectMessage": "MAINTAINING_ANAEROBIC_BASE_1",
+    "activeSets": 18,
+    "maxVerticalSpeed": 0.20000457763671875,
+    "minActivityLapDuration": 4439.519,
+    "moderateIntensityMinutes": 3,
+    "vigorousIntensityMinutes": 70,
+    "steps": 7234
+  }
+}

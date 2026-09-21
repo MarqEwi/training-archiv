@@ -1,16 +1,30 @@
 {
   "date": "2026-09-21",
   "titel": "Hyrox RP Workout",
-  "written_at": "2026-09-20T17:44:45",
-  "garmin": [],
-  "concept2": [],
+  "written_at": "2026-09-21T19:56:24",
+  "garmin": [
+    "2026-09-21_24448070475"
+  ],
+  "concept2": [
+    "2026-09-21_120834039"
+  ],
   "fotos": [
     {
       "file": "2026-09-21_foto-01.jpg",
       "description": "Coach-Plan SSP RPE 9-10 (RP-Workout), TrainHeroic",
       "sha1": "7478fc3cc7f3",
       "source": "ba8fd41a-image.jpg"
+    },
+    {
+      "file": "2026-09-21_foto-02.jpg",
+      "description": "ErgData: Bike Erg Cooldown 20:00, 8842 m, 140 W (Result 120834039)",
+      "sha1": "ed7c9c40bd09",
+      "source": "e14d2631-image.jpg"
     }
   ],
-  "files": []
+  "files": [
+    "auswertung.md",
+    "coach.txt"
+  ],
+  "note": "Hyrox RP Workout gelaufen, RPE 7, Curved Runner 4:22/km"
 }

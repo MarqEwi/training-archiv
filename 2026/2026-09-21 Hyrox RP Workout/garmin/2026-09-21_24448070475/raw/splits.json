@@ -1,0 +1,86 @@
+{
+  "activityId": 24448070475,
+  "lapDTOs": [
+    {
+      "startTimeGMT": "2026-09-21T18:29:47.0",
+      "distance": 6586.72,
+      "duration": 4439.519,
+      "movingDuration": 2933.0,
+      "elapsedDuration": 4439.519,
+      "elevationGain": 0.0,
+      "elevationLoss": 0.0,
+      "maxElevation": 130.0,
+      "minElevation": 121.0,
+      "averageSpeed": 1.4839999675750732,
+      "averageMovingSpeed": 2.2457279968781965,
+      "maxSpeed": 3.47998046875,
+      "calories": 831.0,
+      "averageHR": 134.0,
+      "maxHR": 170.0,
+      "averageTemperature": 28.32454954954955,
+      "maxTemperature": 32.0,
+      "minTemperature": 26.0,
+      "trainingEffect": 3.299999952316284,
+      "maxVerticalSpeed": 0.20000457763671875,
+      "lapIndex": 1,
+      "lengthDTOs": [],
+      "connectIQMeasurement": []
+    }
+  ],
+  "eventDTOs": [
+    {
+      "startTimeGMT": "2026-09-21T18:29:46.0",
+      "startTimeGMTDoubleValue": 1790015386000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-09-21T18:29:46.0",
+      "startTimeGMTDoubleValue": 1790015386000.0,
+      "sectionTypeDTO": {
+        "id": 9,
+        "key": "hrLowAlert",
+        "sectionTypeKey": "HR_LOW_ALERT"
+      }
+    },
+    {
+      "startTimeGMT": "2026-09-21T18:29:47.0",
+      "startTimeGMTDoubleValue": 1790015387000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-09-21T18:30:17.0",
+      "startTimeGMTDoubleValue": 1790015417000.0,
+      "sectionTypeDTO": {
+        "id": 9,
+        "key": "hrLowAlert",
+        "sectionTypeKey": "HR_LOW_ALERT"
+      }
+    },
+    {
+      "startTimeGMT": "2026-09-21T18:30:27.0",
+      "startTimeGMTDoubleValue": 1790015427000.0,
+      "sectionTypeDTO": {
+        "id": 9,
+        "key": "hrLowAlert",
+        "sectionTypeKey": "HR_LOW_ALERT"
+      }
+    },
+    {
+      "startTimeGMT": "2026-09-21T19:43:47.0",
+      "startTimeGMTDoubleValue": 1790019827000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    }
+  ]
+}
