@@ -1,0 +1,54 @@
+{
+  "type": "rower",
+  "date": "2026-09-25 17:27",
+  "workout_type": "VariableInterval",
+  "id": "foto-20260925-row",
+  "comments": "PM5-Fotos: 1000 m als eigenes Intervalltraining (abgebrochen nach r3:46), danach 800-600-400-200 als zweites Intervalltraining. HF aus der Garmin-Zeitreihe zugeordnet.",
+  "intervals": [
+    {
+      "time": "3:47.7",
+      "distance": 1000,
+      "spm": 31,
+      "rest": "3:46",
+      "rest_distance": 14,
+      "hr_avg": 150,
+      "hr_max": 160
+    },
+    {
+      "time": "2:59.6",
+      "distance": 800,
+      "spm": 31,
+      "rest": "2:51",
+      "rest_distance": 11,
+      "hr_avg": 152,
+      "hr_max": 165
+    },
+    {
+      "time": "2:12.7",
+      "distance": 600,
+      "spm": 33,
+      "rest": "2:01",
+      "rest_distance": 13,
+      "hr_avg": 165,
+      "hr_max": 169
+    },
+    {
+      "time": "1:28.2",
+      "distance": 400,
+      "spm": 33,
+      "rest": "1:12",
+      "rest_distance": 16,
+      "hr_avg": 166,
+      "hr_max": 169
+    },
+    {
+      "time": "0:42.8",
+      "distance": 200,
+      "spm": 34,
+      "rest": "0:00",
+      "rest_distance": 0,
+      "hr_avg": 166,
+      "hr_max": 169
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-25",
+  "titel": "SSP Bike Ski Row",
+  "written_at": "2026-09-25T16:01:34",
+  "garmin": [
+    "2026-09-25_24495184298"
+  ],
+  "concept2": [
+    "2026-09-25_120983503",
+    "2026-09-25_120984545",
+    "2026-09-25_120985421",
+    "2026-09-25_foto-20260925-row"
+  ],
+  "fotos": [
+    {
+      "file": "2026-09-25_foto-01.jpg",
+      "description": "PM5 Bike Erg 1: 10.000 m 20:36.8, 2:03.6/1000 m (Result 120983503)",
+      "sha1": "9a324a3b888b",
+      "source": "d682b5d0-image.jpg"
+    },
+    {
+      "file": "2026-09-25_foto-02.jpg",
+      "description": "PM5 Bike Erg 2: 10.000 m 21:24.9, 2:08.4/1000 m (Result 120985421)",
+      "sha1": "792664975281",
+      "source": "a86a0384-image.jpg"
+    },
+    {
+      "file": "2026-09-25_foto-03.jpg",
+      "description": "PM5 Ski Erg Intervalle 1000-800-600-400 m mit Pausen, Gesamtlaufzeit 26:27.1 (Result 120984545)",
+      "sha1": "0c34a3659cc1",
+      "source": "0396682b-image.jpg"
+    },
+    {
+      "file": "2026-09-25_foto-04.jpg",
+      "description": "PM5 Ski Erg Intervalle, untere Hälfte mit 200 m",
+      "sha1": "b1506c6360a3",
+      "source": "585d64e5-image.jpg"
+    },
+    {
+      "file": "2026-09-25_foto-05.jpg",
+      "description": "PM5 RowErg Intervalltraining 800-600-400-200 m, 2000 m 7:23.4 (nur Foto, nicht im Logbook)",
+      "sha1": "75b7b7d63eb6",
+      "source": "f4a800e0-image.jpg"
+    },
+    {
+      "file": "2026-09-25_foto-06.jpg",
+      "description": "PM5 RowErg 1000 m 3:47.7, Intervalltraining nach r3:46 abgebrochen (nur Foto)",
+      "sha1": "1e7613ce7b04",
+      "source": "583b8490-image.jpg"
+    }
+  ],
+  "files": [
+    "auswertung.md",
+    "coach.txt"
+  ],
+  "note": "SSP-Option: Bike 10k, 5 Runden Ski+Row 1000-200 m, Bike 10k; Ski vor Row; RPE offen"
+}

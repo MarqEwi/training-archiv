@@ -1,0 +1,26 @@
+[
+  {
+    "nr": 1,
+    "start_s": 0.0,
+    "end_s": 4106.6,
+    "distance_m": 1505.74,
+    "duration_s": 4106.586,
+    "moving_duration_s": 1163.0,
+    "pace_s_per_km": 2727.2875795290024,
+    "avg_hr": 147.0,
+    "max_hr": 171.0,
+    "avg_cadence_spm": 20.013850415512465,
+    "max_cadence_spm": null,
+    "elev_gain_m": 0.0,
+    "elev_loss_m": 0.0,
+    "avg_power_w": null,
+    "intensity": null,
+    "workout_step": null,
+    "type": "normal",
+    "hr_start": 60,
+    "hr_end": 148,
+    "hr_rise": 88,
+    "pace_str": "45:27",
+    "duration_str": "1:08:27"
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "id": "foto-20260925-row",
+  "date": "2026-09-25 17:27:00",
+  "timezone": "Europe/Berlin",
+  "type": "rower",
+  "distance": 3000,
+  "time": 6710,
+  "time_formatted": "11:11.0",
+  "workout_type": "VariableInterval",
+  "source": "PM5-Foto (manuell)",
+  "verified": false,
+  "stroke_rate": 32,
+  "stroke_count": null,
+  "drag_factor": null,
+  "rest_time": 5900,
+  "rest_distance": 54,
+  "stroke_data": false,
+  "heart_rate": {
+    "average": 157,
+    "max": 169
+  },
+  "comments": "PM5-Fotos: 1000 m als eigenes Intervalltraining (abgebrochen nach r3:46), danach 800-600-400-200 als zweites Intervalltraining. HF aus der Garmin-Zeitreihe zugeordnet.",
+  "workout": {
+    "splits": [],
+    "intervals": [
+      {
+        "type": "distance",
+        "time": 2277,
+        "distance": 1000,
+        "calories_total": null,
+        "stroke_rate": 31,
+        "heart_rate": {
+          "average": 150,
+          "max": 160
+        },
+        "rest_time": 2260,
+        "rest_distance": 14
+      },
+      {
+        "type": "distance",
+        "time": 1796,
+        "distance": 800,
+        "calories_total": null,
+        "stroke_rate": 31,
+        "heart_rate": {
+          "average": 152,
+          "max": 165
+        },
+        "rest_time": 1710,
+        "rest_distance": 11
+      },
+      {
+        "type": "distance",
+        "time": 1327,
+        "distance": 600,
+        "calories_total": null,
+        "stroke_rate": 33,
+        "heart_rate": {
+          "average": 165,
+          "max": 169
+        },
+        "rest_time": 1210,
+        "rest_distance": 13
+      },
+      {
+        "type": "distance",
+        "time": 882,
+        "distance": 400,
+        "calories_total": null,
+        "stroke_rate": 33,
+        "heart_rate": {
+          "average": 166,
+          "max": 169
+        },
+        "rest_time": 720,
+        "rest_distance": 16
+      },
+      {
+        "type": "distance",
+        "time": 428,
+        "distance": 200,
+        "calories_total": null,
+        "stroke_rate": 34,
+        "heart_rate": {
+          "average": 166,
+          "max": 169
+        },
+        "rest_time": 0,
+        "rest_distance": 0
+      }
+    ]
+  }
+}

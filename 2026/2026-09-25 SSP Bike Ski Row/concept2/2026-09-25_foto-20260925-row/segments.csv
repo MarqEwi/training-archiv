@@ -1,0 +1,6 @@
+nr,kind,type,start_s,time_s,distance_m,pace_s,pace_str,watts,spm,hr_avg,hr_min,hr_max,hr_end,hr_start_strokes,hr_end_strokes,hr_rise,rest_time_s,rest_distance_m,calories
+1,intervall,distance,0.0,227.7,1000.0,113.85,1:53.8,237.1750165167602,31,150,,160,,,,,226.0,14.0,
+2,intervall,distance,453.7,179.6,800.0,112.24999999999999,1:52.2,247.46227164245101,31,152,,165,,,,,171.0,11.0,
+3,intervall,distance,804.3,132.7,600.0,110.58333333333333,1:50.6,258.8207038416524,33,165,,169,,,,,121.0,13.0,
+4,intervall,distance,1058.0,88.2,400.0,110.25,1:50.2,261.1753888228197,33,166,,169,,,,,72.0,16.0,
+5,intervall,distance,1218.2,42.8,200.0,106.99999999999999,1:47.0,285.7042569117983,34,166,,169,,,,,0.0,0.0,
