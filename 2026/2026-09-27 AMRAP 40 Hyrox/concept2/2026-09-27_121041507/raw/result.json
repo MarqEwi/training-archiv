@@ -1,0 +1,58 @@
+{
+  "id": 121041507,
+  "user_id": 1159088,
+  "date": "2026-09-27 15:14:56",
+  "timezone": "Europe/Berlin",
+  "date_utc": "2026-09-27 13:14:56",
+  "distance": 319,
+  "type": "skierg",
+  "time": 816,
+  "time_formatted": "8:27.6",
+  "workout_type": "VariableInterval",
+  "source": "ErgData Android",
+  "weight_class": null,
+  "verified": true,
+  "ranked": false,
+  "comments": null,
+  "privacy": "everyone",
+  "stroke_data": true,
+  "rest_distance": 25,
+  "rest_time": 4260,
+  "calories_total": 20,
+  "drag_factor": 96,
+  "stroke_count": 64,
+  "stroke_rate": 45,
+  "heart_rate": {
+    "average": 0,
+    "min": 0,
+    "max": 0,
+    "ending": 0,
+    "recovery": 0
+  },
+  "workout": {
+    "intervals": [
+      {
+        "machine": "rower",
+        "type": "calorie",
+        "time": 816,
+        "distance": 318,
+        "calories_total": 20,
+        "stroke_rate": 45,
+        "rest_distance": 25,
+        "rest_time": 4260,
+        "heart_rate": {
+          "average": 0,
+          "min": 0,
+          "max": 0,
+          "ending": 0,
+          "recovery": 0,
+          "rest": 0
+        },
+        "targets": {
+          "heart_rate_zone": 0
+        }
+      }
+    ]
+  },
+  "real_time": null
+}

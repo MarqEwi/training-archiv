@@ -1,0 +1,2 @@
+nr,kind,type,start_s,time_s,distance_m,pace_s,pace_str,watts,spm,hr_avg,hr_min,hr_max,hr_end,hr_start_strokes,hr_end_strokes,hr_rise,rest_time_s,rest_distance_m,calories
+1,intervall,calorie,0.0,81.6,318.0,128.30188679245282,2:08.3,165.71770684917564,45,,,,,,,,426.0,25.0,20
