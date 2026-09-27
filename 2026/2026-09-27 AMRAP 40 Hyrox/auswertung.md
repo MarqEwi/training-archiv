@@ -50,4 +50,4 @@ Erholungsfenster. Die Läufe wurden nicht schwächer, Lauf 7 hatte mit Ø 166 di
 171. Stationen dauerten stabil 107–133 s (Wall Balls) und 119–128 s (Burpees), Runde 2 nur 35 s langsamer als
 Runde 1. Ski 500 m in 120' (2:00 /500 m) wie am 25.09.; Lauf-Pace 4:11 min/km liegt in Pace-Zone 5 des Coaches (schneller
 als 4:14) und über der Race Pace von 4:22 vom 21.09. Erholung im Bike:
-HF von 162 auf 139 im Schnitt, am Ende 118. RPE folgt vom Nutzer; die Zonenverteilung spricht für 8.
+HF von 162 auf 139 im Schnitt, am Ende 118. RPE 8 (Nutzer), passend zur Vorgabe 7–8,5 und zur Zonenverteilung.
