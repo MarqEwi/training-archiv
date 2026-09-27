@@ -8,7 +8,9 @@ gestartetem Workout keine Laps über die API; Läufe und Stationen wurden aus de
 rekonstruiert (Läufe 82–88 spm), Genauigkeit etwa 10 s.
 
 Quellen: Bike Result 121043433 (ErgData). Ski Result 121041507 enthält nur 319 m in 1:21.6 als ein Intervall,
-die beiden 500 m sind im Logbook nicht sauber erfasst; Ski-Zeiten daher nur aus der Uhr, ohne Pace.
+die beiden 500 m sind im Logbook nicht sauber erfasst. Ski-Pace laut PM5 (Angabe des Nutzers): 2:00 /500 m,
+also 120' je 500 m. Lauf-Pace auf dem Curved Runner laut Anzeige 4:11 min/km (Angabe des Nutzers), das sind
+rund 956 m je 4-min-Lauf und etwa 6,7 km in sieben Läufen.
 Ergometer ohne Gurt, HF nur von der Uhr.
 
 ## Ablauf mit Herzfrequenz
@@ -18,20 +20,20 @@ Ergometer ohne Gurt, HF nur von der Uhr.
 | R1 Lauf 1 (Einlaufen) | 0:04–3:54 | 4 min | 102→163 | 149 | 164 |
 | R1 40 Wall Balls | 3:54–5:41 | 107' | 164→162 | 161 | 165 |
 | R1 Lauf 2 | 5:41–9:28 | 4 min | 162→164 | 163 | 164 |
-| R1 Ski 500 m | 9:28–11:49 | 141' inkl. Wechsel | 163→160 | 161 | 163 |
+| R1 Ski 500 m | 9:28–11:49 | 120' (2:00 /500 m), 141' inkl. Wechsel | 163→160 | 161 | 163 |
 | R1 Lauf 3 | 11:49–15:43 | 4 min | 160→165 | 164 | 167 |
 | R1 Burpees | 15:43–17:42 | 119' | 164→158 | 160 | 164 |
 | R2 Lauf 1 | 17:42–21:29 | 4 min | 159→166 | 164 | 167 |
 | R2 40 Wall Balls | 21:29–23:42 | 133' | 166→168 | 166 | 169 |
 | R2 Lauf 2 | 23:42–27:22 | 4 min | 169→161 | 167 | 171 |
-| R2 Ski 500 m | 27:22–29:57 | 155' inkl. Wechsel | 162→163 | 162 | 164 |
+| R2 Ski 500 m | 27:22–29:57 | 120' (2:00 /500 m), 155' inkl. Wechsel | 162→163 | 162 | 164 |
 | R2 Lauf 3 | 29:57–33:51 | 4 min | 163→164 | 164 | 166 |
 | R2 Burpees | 33:51–35:59 | 128' | 164→163 | 162 | 164 |
 | R3 Lauf 1 | 35:59–39:47 | 4 min | 162→166 | 166 | 167 |
 | R3 Wall Balls | ab 39:50 | – | Sensor ohne Kontakt (HF 114–135 unplausibel) | – | – |
 | Bike Cooldown | ca. 41–60:29 | 20:00, 9273 m, 2:09.4 /1000 m, 162 W, 71 rpm | 162→118 | 139 | 162 |
 
-Zwei volle Runden in 35:59, Runde 1 in 17:42, Runde 2 in 18:17. Sieben Läufe à 4 min = 28 min Laufen im
+Zwei volle Runden in 35:59, Runde 1 in 17:42, Runde 2 in 18:17. Sieben Läufe à 4 min bei 4:11 min/km = 28 min und rund 6,7 km Laufen im
 40-min-Block. Bike-Splits 2:19.7 / 2:07.4 / 2:06.9 / 2:05.9 / 2:08.2.
 
 ## Coach-Zonen (Stand 01.06.2026)
@@ -46,5 +48,6 @@ Zwei volle Runden in 35:59, Runde 1 in 17:42, Runde 2 in 18:17. Sieben Läufe à
 Genau die Belastung, die der Coach mit „ähnlich zum 10k“ meint: 40 min am Stück bei 158–171 bpm, Ø 161, ohne
 Erholungsfenster. Die Läufe wurden nicht schwächer, Lauf 7 hatte mit Ø 166 die höchste HF, Lauf 5 die Spitze
 171. Stationen dauerten stabil 107–133 s (Wall Balls) und 119–128 s (Burpees), Runde 2 nur 35 s langsamer als
-Runde 1. Ski 500 m mit rund 2:00–2:15 reiner Skizeit passt zu den 2:00 /500 m vom 25.09. Erholung im Bike:
+Runde 1. Ski 500 m in 120' (2:00 /500 m) wie am 25.09.; Lauf-Pace 4:11 min/km liegt in Pace-Zone 5 des Coaches (schneller
+als 4:14) und über der Race Pace von 4:22 vom 21.09. Erholung im Bike:
 HF von 162 auf 139 im Schnitt, am Ende 118. RPE folgt vom Nutzer; die Zonenverteilung spricht für 8.
