@@ -48,3 +48,27 @@ am 28.09. ist das der dritte harte Tag in Folge; Auslaufen mit HF 127 sauber. N�
 starten, dann liegt der Satz in Z4 wie vom Coach gewollt. RPE laut Nutzer nur 5–6 statt 7: fiel sehr leicht, musste
 sich drosseln, lief von selbst bei 4:10 oder schneller. Zusammen mit der HF (Ø 158, nur 5 % Zone 4) ein deutliches
 Signal, dass die Schwellenpace von 4:17 (Test 09.06.) inzwischen zu langsam angesetzt ist.
+
+---
+
+# Auswertung 29.09.2026 (2. Einheit, abends) – Easy Run 30 min Z1 (Plan vom 30.09., vorgezogen)
+
+Garmin-Aktivität 24546867710, Paderborn, 18:38 Uhr, 4,74 km, 30:01, Ø-Pace 6:20 min/km, Ø-HF 130, Max-HF 139,
+aerober TE 2,4, Kadenz 162 spm. Wetter: heiter, 22,8 °C, 47 % Luftfeuchte. Vorgabe: 30 min Z1, HR unter 70 % von HRmax,
+Recovery zwischen Dienstag und Donnerstag. Gelaufen ohne Workout-Schritte, km-Laps.
+
+| km | Zeit | Pace | Ø-HF | Max-HF |
+|---|---|---|---|---|
+| 1 | 06:15 | 6:15 | 126 | 135 |
+| 2 | 06:24 | 6:24 | 131 | 135 |
+| 3 | 06:29 | 6:29 | 128 | 131 |
+| 4 | 06:20 | 6:20 | 130 | 134 |
+| 0,74 | 04:33 | 6:11 | 135 | 139 |
+
+Coach-Zonen: 100 % in HF-Zone 1 (< 148), Pace-Zone 1 (langsamer als 5:31). Zur 70-%-Grenze: mit HRmax 181 (Max
+im Test 09.06.) wären das 127 bpm; Ø 130 und Spitze 139 liegen knapp darüber (72 % im Schnitt), bei 22,8 °C.
+HF ab km 1 flach bei 128–135, keine Drift trotz Wärme.
+
+Kurzfazit: Sauberer Recovery-Lauf wenige Stunden nach den 60-45-30-15-Intervallen (Ø-HF 145) und am dritten harten
+Tag. Pace 6:20 gleichmäßig, HF ohne Anstieg, Kadenz konstant 162. Nach Coach-Zone 1 voll erfüllt; nur nach der
+strengen 70-%-Regel um 3 bpm zu hoch, was bei der Temperatur zu erwarten ist. RPE laut Nutzer: sehr entspannt.
