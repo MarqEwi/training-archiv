@@ -1,4 +1,4 @@
-# Auswertung 29.09.2026 – Run Short 60-45-30-15 (Coach Engelhardt, RPE 7)
+# Auswertung 29.09.2026 – Run Short 60-45-30-15 (Coach Engelhardt, Vorgabe RPE 7, gefühlt 5–6)
 
 Garmin-Aktivität 24537703561, Augustdorf, 08:27 Uhr, Workout auf der Uhr gelaufen (alle 71 Schritte als Laps).
 8,12 km, 47:58, Ø-HF 145, Max-HF 169, aerober TE 4,0, anaerober TE 3,1, Kadenz Ø 157 spm.
@@ -45,4 +45,6 @@ Schneller als Vorgabe: Ø 4:05 statt Z4 4:14–4:30, R1 60 s mit 3:47 deutlich z
 Format mit nur 15 s Trab normal, die Pausen sind zu kurz zum Erholen. Bemerkenswert: R7 und R8 waren die
 schnellsten 45er (3:58, 4:03) bei den höchsten HF-Werten, also kein Einbruch. Nach Hyrox-AMRAP am 27.09. und E90s
 am 28.09. ist das der dritte harte Tag in Folge; Auslaufen mit HF 127 sauber. Nächstes Mal die 60er bei 4:10–4:15
-starten, dann liegt der Satz in Z4 wie vom Coach gewollt. RPE folgt vom Nutzer.
+starten, dann liegt der Satz in Z4 wie vom Coach gewollt. RPE laut Nutzer nur 5–6 statt 7: fiel sehr leicht, musste
+sich drosseln, lief von selbst bei 4:10 oder schneller. Zusammen mit der HF (Ø 158, nur 5 % Zone 4) ein deutliches
+Signal, dass die Schwellenpace von 4:17 (Test 09.06.) inzwischen zu langsam angesetzt ist.
