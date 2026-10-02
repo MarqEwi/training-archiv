@@ -50,4 +50,4 @@ Anstieg über die vier 5-min-Läufe (163 / 164 / 163 nach Lauf 1). Die Pausen vo
 zuverlässig auf 97–115 zurück. In Teil 2 halten die Stationen die HF bei 154–168 und der zweite Lauf startet
 bei 157–166 – das ist der Hyrox-Effekt, Pace trotzdem gehalten. 60 BBJ in 269' sind der längste Block;
 Wall Balls 20/20/20 in 148' und Lunges 30 kg in 127' zügig. Nur 2 % in Zone 4: die Einheit war Tempo-
-und Stationsarbeit unter der Schwelle, keine Limit-Einheit. RPE folgt vom Nutzer.
+und Stationsarbeit unter der Schwelle, keine Limit-Einheit. RPE 6 laut Nutzer, passend zu 2 % Zone 4 und zur konstanten Pace.
