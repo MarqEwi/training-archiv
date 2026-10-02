@@ -1,4 +1,4 @@
-NXT LVL SSP 4x5 + 3 Runden 02.10.2026, gesamt 1:02, 7,3 km Laufen,
+NXT LVL SSP 4x5 + 3 Runden 02.10.2026, gesamt 1:02, 7,4 km Laufen,
 
 HR avg 139, max 168,
 
@@ -6,9 +6,9 @@ RPE: 6
 
 Warm-up 3 min locker
 
-4x 5 min Laufen Curved Runner 4:22 min/km Pace (10 s langsamer als RP 4:12): 300' / 300' / 300' / 300' = je 1145 m, HR Ø 140 / 152 / 155 / 156, max 155 / 163 / 164 / 163, Pausen 123' / 130' / 134' / 127' (HR runter auf 86-112)
+4x 5 min Laufen Curved Runner 4:20 min/km Pace (rund 10 s langsamer als RP 4:12, problemlos, viel Luft nach oben): 300' / 300' / 300' / 300' = je 1154 m, HR Ø 140 / 152 / 155 / 156, max 155 / 163 / 164 / 163, Pausen 123' / 130' / 134' / 127' (HR runter auf 86-112)
 
-3 Runden 2 min Laufen + Station + 2 min Laufen, Läufe 4:22 min/km Pace = je 458 m:
+3 Runden 2 min Laufen + Station + 2 min Laufen, Läufe 4:20 min/km Pace = je 462 m:
 
 R1: Lauf 120' (HR Ø 141) + 60 BBJ 269' (HR 154, max 159) + Lauf 120' (HR Ø 159, max 163), Pause 117'
 
@@ -18,4 +18,4 @@ R3: Lauf 120' (HR Ø 145) + 60 Lunges 30 kg Sandsack 127' (HR 161, max 165) + La
 
 Cooldown 5 min gehen, HR 110
 
-Anmerkung: alle Läufe konstant 4:22 min/km Pace, kein HR-Anstieg über die 5-min-Läufe (163 / 164 / 163), Pausen 90-120 s nach jedem Lauf und jeder Runde selbst ergänzt (im Plan vergessen)
+Anmerkung: alle Läufe konstant 4:20 min/km Pace mit viel Luft nach oben, kein HR-Anstieg über die 5-min-Läufe (163 / 164 / 163), Pausen 90-120 s nach jedem Lauf und jeder Runde selbst ergänzt (im Plan vergessen)
