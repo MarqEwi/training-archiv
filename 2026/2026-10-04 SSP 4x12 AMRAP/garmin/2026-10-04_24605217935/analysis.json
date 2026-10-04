@@ -1,0 +1,121 @@
+{
+  "summary": {
+    "activity_id": 24605217935,
+    "name": "NXT LVL SSP 4x12",
+    "type": "indoor_cardio",
+    "start_local": "2026-10-04T16:59:23.0",
+    "start_gmt": "2026-10-04T14:59:23.0",
+    "date": "2026-10-04",
+    "distance_m": 3410.29,
+    "duration_s": 3326.986,
+    "moving_duration_s": 1629.0,
+    "pace_s_per_km": 975.5727518774063,
+    "avg_hr": 139.0,
+    "max_hr": 156.0,
+    "avg_cadence_spm": null,
+    "elev_gain_m": 0.0,
+    "elev_loss_m": 0.0,
+    "calories": 776.0,
+    "avg_power_w": null,
+    "aerobic_te": 3.700000047683716,
+    "anaerobic_te": 1.2999999523162842,
+    "vo2max": null,
+    "source": "garmin-connect-api",
+    "pace_str": "16:16",
+    "duration_str": "55:27"
+  },
+  "weather": {
+    "temp_c": null,
+    "feels_like_c": null,
+    "humidity_pct": null,
+    "wind_kmh": null,
+    "wind_dir": null,
+    "condition": null,
+    "raw_temp": null,
+    "raw_wind": null
+  },
+  "laps": [
+    {
+      "nr": 1,
+      "start_s": 0.0,
+      "end_s": 3327.0,
+      "distance_m": 3410.29,
+      "duration_s": 3326.986,
+      "moving_duration_s": 1629.0,
+      "pace_s_per_km": 975.5727518774063,
+      "avg_hr": 139.0,
+      "max_hr": 156.0,
+      "avg_cadence_spm": 43.2021978021978,
+      "max_cadence_spm": null,
+      "elev_gain_m": 0.0,
+      "elev_loss_m": 0.0,
+      "avg_power_w": null,
+      "intensity": null,
+      "workout_step": null,
+      "type": "normal",
+      "hr_start": 57,
+      "hr_end": 104,
+      "hr_rise": 47,
+      "pace_str": "16:16",
+      "duration_str": "55:27"
+    }
+  ],
+  "lap_classification_source": "pace",
+  "is_interval_session": false,
+  "intervals": {
+    "count": 0
+  },
+  "hr_zones": [
+    {
+      "zone": 1,
+      "seconds": 454.981,
+      "low_bpm": 106,
+      "minutes": 7.6,
+      "percent": 14.4
+    },
+    {
+      "zone": 2,
+      "seconds": 1124.819,
+      "low_bpm": 130,
+      "minutes": 18.7,
+      "percent": 35.5
+    },
+    {
+      "zone": 3,
+      "seconds": 1523.209,
+      "low_bpm": 145,
+      "minutes": 25.4,
+      "percent": 48.1
+    },
+    {
+      "zone": 4,
+      "seconds": 62.0,
+      "low_bpm": 155,
+      "minutes": 1.0,
+      "percent": 2.0
+    },
+    {
+      "zone": 5,
+      "seconds": 0.0,
+      "low_bpm": 163,
+      "minutes": 0.0,
+      "percent": 0.0
+    }
+  ],
+  "timeseries_points": 654,
+  "timeseries_columns": [
+    "cadence_spm",
+    "distance_m",
+    "elapsed_s",
+    "elev_m",
+    "hr",
+    "moving_s",
+    "pace_s_per_km",
+    "speed_m_s",
+    "t_s",
+    "temp_c",
+    "timestamp",
+    "timestamp_ms"
+  ],
+  "notes": []
+}
