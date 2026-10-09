@@ -4,7 +4,7 @@
 
 Wiederholung der Einheit vom 06.10. (damals keine Aufzeichnung). 7,62 km, 46:11, Ø-HF 147, Max-HF 178, aerober TE
 4,4, anaerober TE 3,5, 681 kcal. 8,9 °C (gefühlt 6,1), Wind 17,7 km/h SW, 32 m hoch / 43 m runter. Lauf-Profil,
-alle Schritte als Laps vorhanden. Vorgabe Coach: 2x 10 min Z3, vorsichtig Z4 (Uhr: Pace 4:15–4:51, Notiz „bis 4:25“).
+alle Schritte als Laps vorhanden. Vorgabe Coach: 2x 10 min Z3, vorsichtig Z4 (Uhr: Pace 4:15–4:51, Notiz „bis 4:25“). RPE 7.
 
 | Teil | Distanz | Zeit | Pace | Ø-HF | Max-HF | HF Start→Ende |
 |---|---|---|---|---|---|---|
@@ -40,7 +40,7 @@ Coach-Plan vom 08.10.: 5x 5 min Run 5–10 s langsamer als RP (Z3–4) into 3x (
 Sled Push, Burpees, Wall Balls). 60 s Pause zwischen den 5-min-Läufen (Wunsch des Nutzers). 48:43, Ø-HF 154, Max-HF
 171, aerober TE 4,3, anaerober TE 2,9, 773 kcal. Profil Hybrid: Uhr liefert keine Laps, Phasen aus Handgelenks-Kadenz
 und HF rekonstruiert (Läufe exakt auf dem Uhren-Raster, ±10 s). Uhr-Meter indoor nicht belastbar (880–970 m je 5 min).
-RPE 7. Laufpace am Curved Runner, Sled- und Wall-Ball-Gewicht nicht angegeben.
+RPE 7. Laufpace laut Nutzer 4:10 min/km in allen Läufen (RP statt 5–10 s langsamer): 5 min = 1200 m, 3 min = 720 m. Stationen: Sled Push 140 kg + Schlitten, Burpee Broad Jumps, Wall Balls 9 kg.
 
 | Teil | Zeit (min) | Dauer | HF Ø | HF max | HF Start→Ende | Pause danach (HF-Tief) |
 |---|---|---|---|---|---|---|
@@ -53,7 +53,7 @@ RPE 7. Laufpace am Curved Runner, Sled- und Wall-Ball-Gewicht nicht angegeben.
 | R1 Lauf 3 min | 31:21–34:21 | 180' | 158 | 168 | 139→165 | – |
 | R1 Sled Push | 34:21–36:21 | 120' | 152 | 163 | 163→148 | – |
 | R2 Lauf 3 min | 36:21–39:21 | 180' | 160 | 165 | 148→160 | – |
-| R2 Burpees | 39:21–41:21 | 120' | 159 | 165 | 161→154 | – |
+| R2 BBJ | 39:21–41:21 | 120' | 159 | 165 | 161→154 | – |
 | R3 Lauf 3 min | 41:21–44:21 | 180' | 158 | 164 | 152→158 | – |
 | R3 Wall Balls | 44:21–46:21 | 120' | 162 | 167 | 159→157 | – |
 | Cooldown | 46:21–48:43 | 143' | 129 | – | 155→112 | – |
