@@ -40,7 +40,7 @@ Coach-Plan vom 08.10.: 5x 5 min Run 5–10 s langsamer als RP (Z3–4) into 3x (
 Sled Push, Burpees, Wall Balls). 60 s Pause zwischen den 5-min-Läufen (Wunsch des Nutzers). 48:43, Ø-HF 154, Max-HF
 171, aerober TE 4,3, anaerober TE 2,9, 773 kcal. Profil Hybrid: Uhr liefert keine Laps, Phasen aus Handgelenks-Kadenz
 und HF rekonstruiert (Läufe exakt auf dem Uhren-Raster, ±10 s). Uhr-Meter indoor nicht belastbar (880–970 m je 5 min).
-RPE 7. Laufpace laut Nutzer 4:10 min/km in allen Läufen (RP statt 5–10 s langsamer): 5 min = 1200 m, 3 min = 720 m. Stationen: Sled Push 140 kg + Schlitten, Burpee Broad Jumps, Wall Balls 9 kg.
+RPE 7. Laufpace laut Nutzer: 5-min-Läufe 4:20 min/km (rund 10 s langsamer als RP 4:12) = je 1154 m, 3-min-Läufe 4:10 min/km (RP) = je 720 m. Stationen: Sled Push 140 kg + Schlitten, Burpee Broad Jumps, Wall Balls 9 kg.
 
 | Teil | Zeit (min) | Dauer | HF Ø | HF max | HF Start→Ende | Pause danach (HF-Tief) |
 |---|---|---|---|---|---|---|
