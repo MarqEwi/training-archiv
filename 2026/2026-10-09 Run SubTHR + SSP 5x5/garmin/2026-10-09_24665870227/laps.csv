@@ -1,0 +1,2 @@
+nr,type,start_s,end_s,distance_m,duration_s,pace_s_per_km,pace_str,avg_hr,max_hr,hr_start,hr_end,hr_rise,avg_cadence_spm,elev_gain_m,elev_loss_m,avg_power_w,intensity,recovery_to_threshold_s
+1,normal,0.0,2922.7,6844.32,2922.726,427.0294200154289,7:07,154.0,171.0,70,112,42,72.61632653061224,0.0,0.0,,,

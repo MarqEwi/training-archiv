@@ -1,0 +1,23 @@
+{
+  "issueDate": "2026-10-09T06:20:00.000+00:00",
+  "temp": 48,
+  "apparentTemp": 43,
+  "dewPoint": 41,
+  "relativeHumidity": 76,
+  "windDirection": 220,
+  "windDirectionCompassPoint": "sw",
+  "windSpeed": 11,
+  "windGust": null,
+  "latitude": 51.61408997140825,
+  "longitude": 8.616317678242922,
+  "weatherStationDTO": {
+    "id": "EDLP",
+    "name": "Paderborn / Lippstadt",
+    "timezone": null
+  },
+  "weatherTypeDTO": {
+    "weatherTypePk": null,
+    "desc": "Fair",
+    "image": null
+  }
+}
