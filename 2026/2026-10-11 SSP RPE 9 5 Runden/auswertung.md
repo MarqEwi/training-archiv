@@ -8,7 +8,7 @@ Plan: 5 Runden 2 min Run RP into Übung into 2 min Run RP, dann 60 s Pause (Wuns
 alle Läufe 4:00 min/km am Curved Runner (schneller als RP 4:12), also je 500 m pro 2-min-Lauf, 5000 m gesamt.
 Stationen: 40 m Burpee Broad Jumps unbroken, 500 m Row Ø 1:50 /500 m (nicht im Concept2 Logbook, Angabe Nutzer),
 100 m Farmers Carry 2x32 kg Kettlebells unbroken, 50 Sandbag Lunges 30 kg (Pro) unbroken, 50 Wall Balls 9 kg in
-10/15/10/15. RPE noch offen (Vorgabe 9).
+10/15/10/15. RPE 9 (Vorgabe 9).
 
 | Runde | Teil | Zeit (min) | Dauer | HF Ø | HF max | HF Start→Ende |
 |---|---|---|---|---|---|---|
