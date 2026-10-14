@@ -1,0 +1,77 @@
+{
+  "activityId": 24718886218,
+  "lapDTOs": [
+    {
+      "startTimeGMT": "2026-10-14T08:30:52.0",
+      "distance": 231.32,
+      "duration": 4019.992,
+      "movingDuration": 164.0,
+      "elapsedDuration": 4025.044,
+      "elevationGain": 0.0,
+      "elevationLoss": 0.0,
+      "maxElevation": -82.6,
+      "minElevation": -93.4,
+      "averageSpeed": 0.057999998331069946,
+      "averageMovingSpeed": 1.4104878495379192,
+      "maxSpeed": 2.325000762939453,
+      "calories": 917.0,
+      "averageHR": 138.0,
+      "maxHR": 167.0,
+      "averageTemperature": 25.171307807061165,
+      "maxTemperature": 29.0,
+      "minTemperature": 24.0,
+      "trainingEffect": 3.5,
+      "maxVerticalSpeed": 0.20000457763671875,
+      "lapIndex": 1,
+      "lengthDTOs": [],
+      "connectIQMeasurement": []
+    }
+  ],
+  "eventDTOs": [
+    {
+      "startTimeGMT": "2026-10-14T08:30:51.0",
+      "startTimeGMTDoubleValue": 1791966651000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-14T08:30:52.0",
+      "startTimeGMTDoubleValue": 1791966652000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-14T09:14:10.0",
+      "startTimeGMTDoubleValue": 1791969250000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-14T09:14:15.0",
+      "startTimeGMTDoubleValue": 1791969255000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-14T09:37:59.0",
+      "startTimeGMTDoubleValue": 1791970679000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    }
+  ]
+}

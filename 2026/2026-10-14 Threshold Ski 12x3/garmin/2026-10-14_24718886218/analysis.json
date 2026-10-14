@@ -1,0 +1,121 @@
+{
+  "summary": {
+    "activity_id": 24718886218,
+    "name": "Threshold Ski 12",
+    "type": "indoor_cardio",
+    "start_local": "2026-10-14T10:30:52.0",
+    "start_gmt": "2026-10-14T08:30:52.0",
+    "date": "2026-10-14",
+    "distance_m": 231.32,
+    "duration_s": 4019.992,
+    "moving_duration_s": 164.0,
+    "pace_s_per_km": 17378.488673698772,
+    "avg_hr": 138.0,
+    "max_hr": 167.0,
+    "avg_cadence_spm": null,
+    "elev_gain_m": 0.0,
+    "elev_loss_m": 0.0,
+    "calories": 917.0,
+    "avg_power_w": null,
+    "aerobic_te": 3.5,
+    "anaerobic_te": 2.5,
+    "vo2max": null,
+    "source": "garmin-connect-api",
+    "pace_str": "289:38",
+    "duration_str": "1:07:00"
+  },
+  "weather": {
+    "temp_c": null,
+    "feels_like_c": null,
+    "humidity_pct": null,
+    "wind_kmh": null,
+    "wind_dir": null,
+    "condition": null,
+    "raw_temp": null,
+    "raw_wind": null
+  },
+  "laps": [
+    {
+      "nr": 1,
+      "start_s": 0.0,
+      "end_s": 4020.0,
+      "distance_m": 231.32,
+      "duration_s": 4019.992,
+      "moving_duration_s": 164.0,
+      "pace_s_per_km": 17378.488673698772,
+      "avg_hr": 138.0,
+      "max_hr": 167.0,
+      "avg_cadence_spm": 14.446969696969697,
+      "max_cadence_spm": null,
+      "elev_gain_m": 0.0,
+      "elev_loss_m": 0.0,
+      "avg_power_w": null,
+      "intensity": null,
+      "workout_step": null,
+      "type": "normal",
+      "hr_start": 86,
+      "hr_end": 108,
+      "hr_rise": 22,
+      "pace_str": "289:38",
+      "duration_str": "1:07:00"
+    }
+  ],
+  "lap_classification_source": "pace",
+  "is_interval_session": false,
+  "intervals": {
+    "count": 0
+  },
+  "hr_zones": [
+    {
+      "zone": 1,
+      "seconds": 936.941,
+      "low_bpm": 108,
+      "minutes": 15.6,
+      "percent": 26.6
+    },
+    {
+      "zone": 2,
+      "seconds": 698.003,
+      "low_bpm": 133,
+      "minutes": 11.6,
+      "percent": 19.8
+    },
+    {
+      "zone": 3,
+      "seconds": 930.134,
+      "low_bpm": 147,
+      "minutes": 15.5,
+      "percent": 26.4
+    },
+    {
+      "zone": 4,
+      "seconds": 935.209,
+      "low_bpm": 158,
+      "minutes": 15.6,
+      "percent": 26.6
+    },
+    {
+      "zone": 5,
+      "seconds": 17.131,
+      "low_bpm": 166,
+      "minutes": 0.3,
+      "percent": 0.5
+    }
+  ],
+  "timeseries_points": 840,
+  "timeseries_columns": [
+    "cadence_spm",
+    "distance_m",
+    "elapsed_s",
+    "elev_m",
+    "hr",
+    "moving_s",
+    "pace_s_per_km",
+    "speed_m_s",
+    "t_s",
+    "temp_c",
+    "timestamp",
+    "timestamp_ms"
+  ],
+  "notes": []
+}
