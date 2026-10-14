@@ -4,7 +4,7 @@ Garmin-Aktivität 24718886218 (Profil Hybrid, 10:30–11:37 Uhr, 1:07:00, Ø-HF 
 anaerober TE 2,5, 917 kcal). Concept2 Logbook Result 121664512 (ErgData, Ski Erg, FixedTimeInterval 12 × 3:00 / 1:30,
 Drag 123): 8948 m in 36:00 Belastung, Ø 2:00.7 /500 m, 199 W, 45 spm. Keine HF am PM5; die Garmin-HF wurde über den
 Kontrast Belastung/Pause auf das 270-s-Raster gelegt (Intervall 1 startet bei Garmin-Sekunde 180, Kontrast 37 bpm,
-Genauigkeit ±5 s). RPE noch offen (Vorgabe 7–8).
+Genauigkeit ±5 s). RPE 7 (Vorgabe 7–8).
 
 Warm-up auf der Uhr nur 3 min (HF 101, max 120), Plan 10 min. Cooldown 11:30 (HF 112 → 103).
 
