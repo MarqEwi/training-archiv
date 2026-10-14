@@ -1,0 +1,27 @@
+[
+  {
+    "zoneNumber": 1,
+    "secsInZone": 696.063,
+    "zoneLowBoundary": 106
+  },
+  {
+    "zoneNumber": 2,
+    "secsInZone": 366.999,
+    "zoneLowBoundary": 132
+  },
+  {
+    "zoneNumber": 3,
+    "secsInZone": 498.998,
+    "zoneLowBoundary": 145
+  },
+  {
+    "zoneNumber": 4,
+    "secsInZone": 1470.499,
+    "zoneLowBoundary": 156
+  },
+  {
+    "zoneNumber": 5,
+    "secsInZone": 104.39,
+    "zoneLowBoundary": 164
+  }
+]
