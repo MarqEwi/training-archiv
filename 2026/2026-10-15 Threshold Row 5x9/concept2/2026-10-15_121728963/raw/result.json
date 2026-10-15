@@ -1,0 +1,113 @@
+{
+  "id": 121728963,
+  "user_id": 1159088,
+  "date": "2026-10-15 21:55:00",
+  "timezone": "Europe/Berlin",
+  "date_utc": "2026-10-15 19:55:00",
+  "distance": 11690,
+  "type": "rower",
+  "time": 27000,
+  "time_formatted": "52:30.0",
+  "workout_type": "FixedTimeInterval",
+  "source": "ErgData Android",
+  "weight_class": "H",
+  "verified": true,
+  "ranked": false,
+  "comments": null,
+  "privacy": "everyone",
+  "stroke_data": true,
+  "rest_distance": 305,
+  "rest_time": 4500,
+  "calories_total": 809,
+  "drag_factor": 113,
+  "stroke_count": 1499,
+  "stroke_rate": 33,
+  "workout": {
+    "intervals": [
+      {
+        "type": "time",
+        "time": 5400,
+        "distance": 2311,
+        "calories_total": 158,
+        "stroke_rate": 31,
+        "rest_time": 900,
+        "heart_rate": {
+          "average": 0,
+          "min": 0,
+          "max": 0,
+          "ending": 0,
+          "recovery": 0,
+          "rest": 0
+        }
+      },
+      {
+        "type": "time",
+        "time": 5400,
+        "distance": 2334,
+        "calories_total": 161,
+        "stroke_rate": 33,
+        "rest_time": 900,
+        "heart_rate": {
+          "average": 0,
+          "min": 0,
+          "max": 0,
+          "ending": 0,
+          "recovery": 0,
+          "rest": 0
+        }
+      },
+      {
+        "type": "time",
+        "time": 5400,
+        "distance": 2344,
+        "calories_total": 163,
+        "stroke_rate": 33,
+        "rest_time": 900,
+        "heart_rate": {
+          "average": 0,
+          "min": 0,
+          "max": 0,
+          "ending": 0,
+          "recovery": 0,
+          "rest": 0
+        }
+      },
+      {
+        "type": "time",
+        "time": 5400,
+        "distance": 2340,
+        "calories_total": 162,
+        "stroke_rate": 34,
+        "rest_time": 900,
+        "heart_rate": {
+          "average": 0,
+          "min": 0,
+          "max": 0,
+          "ending": 0,
+          "recovery": 0,
+          "rest": 0
+        }
+      },
+      {
+        "type": "time",
+        "time": 5400,
+        "distance": 2361,
+        "calories_total": 165,
+        "stroke_rate": 35,
+        "rest_time": 900,
+        "heart_rate": {
+          "average": 0,
+          "min": 0,
+          "max": 0,
+          "ending": 0,
+          "recovery": 0,
+          "rest": 0
+        }
+      }
+    ],
+    "targets": {
+      "heart_rate_zone": 0
+    }
+  },
+  "real_time": null
+}
