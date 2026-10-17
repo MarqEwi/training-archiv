@@ -1,0 +1,57 @@
+{
+  "activityId": 24754976504,
+  "lapDTOs": [
+    {
+      "startTimeGMT": "2026-10-17T10:12:24.0",
+      "distance": 0.0,
+      "duration": 3515.425,
+      "movingDuration": 0.0,
+      "elapsedDuration": 3515.425,
+      "elevationGain": 0.0,
+      "elevationLoss": 0.0,
+      "maxElevation": -91.8,
+      "minElevation": -127.4,
+      "averageSpeed": 0.0,
+      "calories": 654.0,
+      "averageHR": 121.0,
+      "maxHR": 167.0,
+      "averageTemperature": 28.16609783845279,
+      "maxTemperature": 32.0,
+      "minTemperature": 26.0,
+      "trainingEffect": 3.299999952316284,
+      "maxVerticalSpeed": 7.0,
+      "lapIndex": 1,
+      "lengthDTOs": [],
+      "connectIQMeasurement": []
+    }
+  ],
+  "eventDTOs": [
+    {
+      "startTimeGMT": "2026-10-17T10:12:23.0",
+      "startTimeGMTDoubleValue": 1792231943000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-17T10:12:24.0",
+      "startTimeGMTDoubleValue": 1792231944000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-17T11:11:00.0",
+      "startTimeGMTDoubleValue": 1792235460000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    }
+  ]
+}
