@@ -14,7 +14,7 @@ Ergebnis laut Nutzer (CrossFit-Notation Runden + Wiederholungen der angefangenen
 | 3 | 2 + 40 | wie Block 2 | 115 |
 | 4 | 2 + 40 | wie Block 2 | 115 |
 
-Gesamt 470 Wiederholungen in 32 min Belastung. Gewichte (Lunges, Wall Ball) und RPE: noch offen.
+Gesamt 470 Wiederholungen in 32 min Belastung. Lunges mit 30 kg Sandsack, Wall Balls 9 kg, RPE 7 (Vorgabe Threshold).
 
 **HF-Einschränkung:** optische HF am Handgelenk mit Aussetzern bei BBJ und Sandsack-Lunges (Block 1 Viertelwerte
 113/108/134/116, Block 4 erstes Viertel 119). Belastbar sind die Spitzen je Block und die Werte während der Wall Balls,
