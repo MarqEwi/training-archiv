@@ -1,0 +1,102 @@
+{
+  "activityId": 24777105044,
+  "lapDTOs": [
+    {
+      "startTimeGMT": "2026-10-19T09:19:38.0",
+      "startLatitude": 51.75596131011844,
+      "startLongitude": 8.946748645976186,
+      "distance": 15406.94,
+      "duration": 5932.961,
+      "movingDuration": 5918.0,
+      "elapsedDuration": 6040.607,
+      "elevationGain": 249.0,
+      "elevationLoss": 248.0,
+      "maxElevation": 200.2,
+      "minElevation": 45.2,
+      "averageSpeed": 2.596999883651733,
+      "averageMovingSpeed": 2.603403249355779,
+      "maxSpeed": 3.7980000972747807,
+      "calories": 1504.0,
+      "averageHR": 133.0,
+      "maxHR": 163.0,
+      "averageRunCadence": 157.03125,
+      "maxRunCadence": 169.0,
+      "averageTemperature": 20.0,
+      "maxTemperature": 28.0,
+      "minTemperature": 18.0,
+      "strideLength": 99.22247984039173,
+      "endLatitude": 51.754644429311156,
+      "endLongitude": 8.947076965123415,
+      "maxVerticalSpeed": 0.600006103515625,
+      "lapIndex": 1,
+      "lengthDTOs": [],
+      "connectIQMeasurement": [],
+      "messageIndex": 0
+    }
+  ],
+  "eventDTOs": [
+    {
+      "startTimeGMT": "2026-10-19T09:19:37.0",
+      "startTimeGMTDoubleValue": 1792401577000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-19T09:19:38.0",
+      "startTimeGMTDoubleValue": 1792401578000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-19T09:56:34.0",
+      "startTimeGMTDoubleValue": 1792403794000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-19T09:57:46.0",
+      "startTimeGMTDoubleValue": 1792403866000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-19T10:50:17.0",
+      "startTimeGMTDoubleValue": 1792407017000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-19T10:50:53.0",
+      "startTimeGMTDoubleValue": 1792407053000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-19T11:00:21.0",
+      "startTimeGMTDoubleValue": 1792407621000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    }
+  ]
+}

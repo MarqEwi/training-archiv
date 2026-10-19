@@ -1,0 +1,138 @@
+{
+  "activityId": 24777105044,
+  "activityUUID": {
+    "uuid": "c536c93b-ad87-4087-8a6a-da6d958470e1"
+  },
+  "activityName": "Altenbeken Laufen",
+  "userProfileId": 62802093,
+  "isMultiSportParent": false,
+  "activityTypeDTO": {
+    "typeId": 1,
+    "typeKey": "running",
+    "parentTypeId": 17,
+    "isHidden": false,
+    "trimmable": true,
+    "restricted": false
+  },
+  "eventTypeDTO": {
+    "typeId": 9,
+    "typeKey": "uncategorized",
+    "sortOrder": 10
+  },
+  "accessControlRuleDTO": {
+    "typeId": 1,
+    "typeKey": "public"
+  },
+  "timeZoneUnitDTO": {
+    "unitId": 124,
+    "unitKey": "Europe/Paris",
+    "factor": 0.0,
+    "timeZone": "Europe/Paris"
+  },
+  "metadataDTO": {
+    "isOriginal": true,
+    "deviceApplicationInstallationId": 918087,
+    "agentApplicationInstallationId": null,
+    "agentString": null,
+    "fileFormat": {
+      "formatId": 7,
+      "formatKey": "fit"
+    },
+    "associatedCourseId": null,
+    "lastUpdateDate": "2026-10-19T11:01:09.0",
+    "uploadedDate": "2026-10-19T11:01:09.0",
+    "videoUrl": null,
+    "hasPolyline": true,
+    "hasChartData": true,
+    "hasHrTimeInZones": true,
+    "hasPowerTimeInZones": false,
+    "userInfoDto": {
+      "userProfilePk": 62802093,
+      "displayname": "c0b62da5-3d7a-4865-855b-3e22d23382e5",
+      "fullname": "Marq Ewi",
+      "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/c713a865-5871-4f70-9e76-c8ffb0e6a73c-62802093.png",
+      "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/3e66e016-2307-4929-85a0-db1e85d14fd9-62802093.png",
+      "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/4e1a4352-9d83-4ced-935d-03f394e7aef7-62802093.png",
+      "userPro": false
+    },
+    "childIds": [],
+    "childActivityTypes": [],
+    "sensors": [
+      {
+        "sourceType": "BLUETOOTH_LOW_ENERGY"
+      }
+    ],
+    "activityImages": [],
+    "manufacturer": "GARMIN",
+    "diveNumber": null,
+    "lapCount": 1,
+    "associatedWorkoutId": null,
+    "isAtpActivity": null,
+    "deviceMetaDataDTO": {
+      "deviceId": "3970442741",
+      "deviceTypePk": 34978,
+      "deviceVersionPk": 918087
+    },
+    "hasIntensityIntervals": false,
+    "hasSplits": false,
+    "eBikeMaxAssistModes": null,
+    "eBikeBatteryUsage": null,
+    "eBikeBatteryRemaining": null,
+    "eBikeAssistModeInfoDTOList": null,
+    "hasRunPowerWindData": null,
+    "calendarEventInfo": null,
+    "groupRideUUID": null,
+    "hasHeatMap": false,
+    "sessionResultType": "ORIGINAL",
+    "hasMultiDayActivities": false,
+    "thirdPartyGymEquipment": [],
+    "personalRecord": false,
+    "gcj02": false,
+    "runPowerWindDataEnabled": null,
+    "manualActivity": false,
+    "trimmed": false,
+    "elevationCorrected": false,
+    "autoCalcCalories": false,
+    "favorite": false
+  },
+  "summaryDTO": {
+    "startTimeLocal": "2026-10-19T11:19:38.0",
+    "startTimeGMT": "2026-10-19T09:19:38.0",
+    "startLatitude": 51.75596131011844,
+    "startLongitude": 8.946748645976186,
+    "distance": 15406.94,
+    "duration": 5932.961,
+    "movingDuration": 5918.0,
+    "elapsedDuration": 6040.607,
+    "elevationGain": 249.0,
+    "elevationLoss": 248.0,
+    "maxElevation": 200.2,
+    "minElevation": 45.2,
+    "avgElevation": 112.01,
+    "averageSpeed": 2.596999883651733,
+    "averageMovingSpeed": 2.603403249355779,
+    "maxSpeed": 3.7980000972747807,
+    "calories": 1504.0,
+    "averageHR": 133.0,
+    "maxHR": 163.0,
+    "minHR": 66.0,
+    "averageRunCadence": 157.03125,
+    "maxRunCadence": 169.0,
+    "averageTemperature": 20.0,
+    "maxTemperature": 28.0,
+    "minTemperature": 18.0,
+    "strideLength": 99.22247984039173,
+    "trainingEffect": 3.0999999046325684,
+    "anaerobicTrainingEffect": 0.10000000149011612,
+    "aerobicTrainingEffectMessage": "IMPROVING_AEROBIC_FITNESS_2",
+    "anaerobicTrainingEffectMessage": "NO_ANAEROBIC_BENEFIT_0",
+    "endLatitude": 51.754644429311156,
+    "endLongitude": 8.947076965123415,
+    "maxVerticalSpeed": 0.600006103515625,
+    "minActivityLapDuration": 5932.961,
+    "moderateIntensityMinutes": 4,
+    "vigorousIntensityMinutes": 96,
+    "steps": 15536
+  },
+  "locationName": "Altenbeken"
+}
