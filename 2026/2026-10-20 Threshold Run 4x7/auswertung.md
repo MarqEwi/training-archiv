@@ -3,7 +3,7 @@
 Garmin-Aktivität 24789407656, Augustdorf, 12:45–13:24 Uhr, 7,55 km in 38:52, Ø-HF 136 (siehe Einschränkung),
 Max-HF 168, 29 m hoch / 39 m runter, Kadenz 154, aerober TE 3,3, anaerober TE 2,9, 669 kcal. 7,8 °C (gefühlt 5,6),
 klar, Wind 16 km/h OSO. Lauf-Profil, alle Schritte als Laps. Vorgabe: 10 min WA, 4 × 7 min bei 4:15–4:25, 90 s easy,
-10 min CD. Warm-up auf 3:24 und Cooldown auf 1:01 gekürzt (Nutzer). Block 4 laut Nutzer nicht zu werten.
+10 min CD. Warm-up auf 3:24 und Cooldown auf 1:01 gekürzt (Nutzer). Block 4 laut Nutzer nicht zu werten. RPE 5 (Vorgabe 7).
 
 | Nr | Teil | Distanz | Zeit | Pace | HF Ø Garmin | HF Ø bereinigt* | HF max | Bis HF < 140 |
 |---|---|---|---|---|---|---|---|---|
