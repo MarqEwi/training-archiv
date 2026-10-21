@@ -45,7 +45,7 @@ PM5-Fotos und Logbook stimmen überein (PM5 rundet Intervall 3 auf 1:56.8 und In
 |---|---|---|---|---|---|---|---|
 | 14.10. Threshold Ski 12x3 | 12 × 3 min | 2:00.7 | 199 | 45 | 123 | Ø 147–153 (Garmin) | 7 |
 | 20.10. Threshold Ski 8x3 | 6 × 3 min | 1:57 (PM5-Angabe) | – | – | 123 | Ø 132–153, max 167 (Garmin) | 5 |
-| 21.10. Threshold Ski 8x3 | 8 × 3 min | 1:57.8 | 214 | 43 | 90 | Ø 140–146, max 158 (Garmin) | (offen) |
+| 21.10. Threshold Ski 8x3 | 8 × 3 min | 1:57.8 | 214 | 43 | 90 | Ø 140–146, max 158 (Garmin) | 5 |
 
 Gegenüber dem 14.10. sind das 15 W mehr bei gleicher Intervalldauer, heute über alle 8 Intervalle gehalten. Das Tempo von gestern (6 Intervalle) wurde heute über 8 Intervalle fast gehalten.
 
@@ -55,10 +55,10 @@ Gegenüber dem 14.10. sind das 15 W mehr bei gleicher Intervalldauer, heute übe
 
 ## 6. Kurzfazit
 
-Sehr gleichmäßige Einheit: alle acht Intervalle innerhalb von 1,7 s, kein Einbruch hinten raus. Mit 214 W liegt die Leistung über dem 12x3 vom 14.10. (199 W), die Vorgabe RPE 7 wurde als Belastung also eher eingehalten als gestern. Die HF bleibt dabei moderat (Ø 140–146, max 158, LTHR 174), die Erholung in den Pausen ist konstant. Die Einheit war also eher ein kontrollierter Schwellenreiz als ein Maximalreiz, passend zur Vorgabe RPE 7.
+Sehr gleichmäßige Einheit: alle acht Intervalle innerhalb von 1,7 s, kein Einbruch hinten raus. Mit 214 W liegt die Leistung über dem 12x3 vom 14.10. (199 W), die Vorgabe RPE 7 wurde als Belastung also eher eingehalten als gestern. Die HF bleibt dabei moderat (Ø 140–146, max 158, LTHR 174), die Erholung in den Pausen ist konstant. Die Einheit war also eher ein kontrollierter Schwellenreiz als ein Maximalreiz, die Vorgabe RPE 7 wurde mit RPE 5 klar unterboten, wie schon beim Lauf und Ski am 20.10.
 
 ## Hinweise
 
 - Keine HF im Logbook (kein Gurt mit PM5/ErgData verbunden); HF aus der Garmin-Aufzeichnung über das Zeitraster zugeordnet.
-- RPE vom Nutzer noch offen.
+- RPE 5 (Nutzer: „fiel mir leicht“), Vorgabe war RPE 7.
 - Warm-up nicht im Logbook (nur ein 16-s-Test um 13:02); Dauer und Gerät des Warm-ups unbekannt.
