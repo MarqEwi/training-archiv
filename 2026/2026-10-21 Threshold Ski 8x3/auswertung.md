@@ -55,7 +55,7 @@ Gegenüber dem 14.10. sind das 15 W mehr bei gleicher Intervalldauer, heute übe
 
 ## 6. Kurzfazit
 
-Sehr gleichmäßige Einheit: alle acht Intervalle innerhalb von 1,7 s, kein Einbruch hinten raus. Mit 214 W liegt die Leistung über dem 12x3 vom 14.10. (199 W), die Vorgabe RPE 7 wurde als Belastung also eher eingehalten als gestern. Die HF bleibt dabei moderat (Ø 140–146, max 158, LTHR 174), die Erholung in den Pausen ist konstant. Die Einheit war also eher ein kontrollierter Schwellenreiz als ein Maximalreiz, die Vorgabe RPE 7 wurde mit RPE 5 klar unterboten, wie schon beim Lauf und Ski am 20.10.
+Sehr gleichmäßige Einheit: alle acht Intervalle innerhalb von 1,7 s, kein Einbruch hinten raus. Mit 214 W liegt die Leistung über dem 12x3 vom 14.10. (199 W). Die HF bleibt dabei moderat (Ø 140–146, max 158, LTHR 174), die Erholung in den Pausen ist konstant. Die Einheit war also eher ein kontrollierter Schwellenreiz als ein Maximalreiz, die Vorgabe RPE 7 wurde mit RPE 5 klar unterboten, wie schon beim Lauf und Ski am 20.10.
 
 ## Hinweise
 
