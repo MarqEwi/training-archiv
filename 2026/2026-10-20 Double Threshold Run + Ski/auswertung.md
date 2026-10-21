@@ -1,4 +1,4 @@
-# Auswertung 20.10.2026 – Threshold Run 4x7 (Coach Engelhardt, Double Threshold reduziert, Teil A)
+# Auswertung 20.10.2026 – Double Threshold reduziert: Threshold Run 4x7 (mittags) + Threshold Ski 8x3 (abends, 6 gefahren)
 
 Garmin-Aktivität 24789407656, Augustdorf, 12:45–13:24 Uhr, 7,55 km in 38:52, Ø-HF 136 (siehe Einschränkung),
 Max-HF 168, 29 m hoch / 39 m runter, Kadenz 154, aerober TE 3,3, anaerober TE 2,9, 669 kcal. 7,8 °C (gefühlt 5,6),
@@ -32,3 +32,31 @@ die Erholung bis unter 140 verlängert sich von 35 auf 54 s. Zusammen mit dem Lo
 das der erwartbare Preis. Block 4 fällt aus der Reihe, Daten vorhanden, aber vom Nutzer nicht gewertet. Für den
 Rennplan: 4:14 über 7 min ist jetzt dreimal in Folge sauber gelaufen, 4:10–4:12 als Zielpace für die 1-km-Läufe
 im Doubles bleibt die richtige Größenordnung.
+
+## Teil B: Threshold Ski, 18:25 Uhr (Garmin 24793316641), 6 von 8 Intervallen
+
+Plan 10 min WA, 8 × 3 min RPE 7, 90 s easy, 10 min CD. Gefahren laut Nutzer: 6 Intervalle, aus Zeitgründen
+abgebrochen, danach Kraftausdauer-Training. Garmin 27:53, Ø-HF 142, Max-HF 167, aerober TE 3,1, anaerober 2,1,
+457 kcal. Concept2 Logbook nicht abrufbar (Refresh-Token ungültig, Neuautorisierung offen), Pace laut Nutzer in
+allen Intervallen Ø 1:57 /500 m, daraus 769 m je Intervall, 4615 m gesamt. Watt und SPM fehlen. Die HF-Zuordnung
+aus der Garmin-Zeitreihe ist eindeutig (Kontrast Belastung/Pause 34 bpm): Warm-up nur 30 s, Intervalle ab 0:30 im
+270-s-Raster, Abbruch direkt nach Intervall 6, Ausfahren 1:53. RPE 5 (Vorgabe 7), „sehr leicht, konnte richtig
+Dampf geben“.
+
+| Nr | Zeit | Pace (Nutzer) | Meter | HF Ø | HF max | HF Start→Ende | Pause: HF-Tief |
+|---|---|---|---|---|---|---|---|
+| 1 | 0:30–3:30 | 1:57 | 769 | 132 | 147 | 97→145 | 104 |
+| 2 | 5:00–8:00 | 1:57 | 769 | 147 | 159 | 124→157 | 112 |
+| 3 | 9:30–12:30 | 1:57 | 769 | 151 | 161 | 133→159 | 117 |
+| 4 | 14:00–17:00 | 1:57 | 769 | 153 | 164 | 131→160 | 118 |
+| 5 | 18:30–21:30 | 1:57 | 769 | 152 | 164 | 129→162 | 118 |
+| 6 | 23:00–26:00 | 1:57 | 769 | 153 | 167 | 124→165 | – |
+
+HF-Zonen Garmin: Z1 6,5 min, Z2 6,4, Z3 6,5, Z4 6,7, Z5 1,1. Coach-Zonen: Intervalle 2–6 Ø 147–153 = Z1/Z2,
+Spitzen 159–167 = Z3/Z4, nie über LTHR 174.
+
+Fazit: 1:57 /500 m ist 3,7 s schneller als die 2:00.7 vom 14.10. (12 × 3 min), bei fast identischer HF (damals
+Ø 150–156, Spitzen 160–166; heute Ø 147–153, Spitzen 159–167). Die HF stieg nur bis Intervall 4 und blieb dann
+flach, die Pausen-Tiefs 112–121 zeigen gute Erholung in 90 s. Das deckt sich mit RPE 5. Intervall 1 wegen 30 s
+Warm-up kalt gestartet (HF 97 → 145). Sechs Intervalle sind 18 der geplanten 24 min Belastung; nach dem Lauf
+mittags (28 min Schwelle bei RPE 5) ein Tag mit 46 min Schwellenarbeit, der dem Nutzer leicht fiel.
