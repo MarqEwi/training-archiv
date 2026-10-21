@@ -1,6 +1,6 @@
 Threshold Ski 8x3 21.10.2026 (Wiederholung von gestern, diesmal alle 8), gesamt 36:00, 6114 m Ski in 24:00 Belastung,
 
-HR: keine Daten (kein Gurt),
+HR avg 127, max 158 (Garmin, ganze Aufzeichnung 48 min inkl. Pausen und Cooldown),
 
 RPE: (bitte ergänzen)
 
@@ -12,6 +12,10 @@ Meter: 764 / 769 / 770 / 765 / 764 / 760 / 763 / 759 m
 
 Pace: 1:57.8 / 1:57.0 / 1:56.9 / 1:57.6 / 1:57.8 / 1:58.4 / 1:58.0 / 1:58.6 /500 m (Ø 1:57.8, 214 W, 43 spm)
 
-Cooldown Bike Erg 10 min, 3947 m, 2:32 /1000 m, 100 W
+HR Ø: 126 / 137 / 142 / 142 / 140 / 142 / 146 / 145, max 148 / 151 / 152 / 153 / 158 / 158 / 157 / 157
 
-Anmerkung: alle 8 Intervalle innerhalb 1:56.9-1:58.6 (±0,6 s), Ø 1:57.8 wie gestern bei 6 Intervallen; 214 W gegenüber 199 W beim 12x3 am 14.10.
+HR-Tief in den Pausen: 80 / 99 / 98 / 103 / 100 / 109 / 102 / 99
+
+Cooldown Bike Erg 10 min, 3947 m, 2:32 /1000 m, 100 W, HR Ø 109
+
+Anmerkung: alle 8 Intervalle innerhalb 1:56.9-1:58.6 (±0,6 s), Ø 1:57.8 wie gestern bei 6 Intervallen; 214 W gegenüber 199 W beim 12x3 am 14.10.; HR ab Intervall 3 flach bei 140-146, Pausen-Erholung stabil auf ca. 100

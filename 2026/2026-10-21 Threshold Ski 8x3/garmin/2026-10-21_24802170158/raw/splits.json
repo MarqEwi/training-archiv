@@ -1,0 +1,84 @@
+{
+  "activityId": 24802170158,
+  "lapDTOs": [
+    {
+      "startTimeGMT": "2026-10-21T11:04:19.0",
+      "distance": 0.0,
+      "duration": 2883.665,
+      "movingDuration": 0.0,
+      "elapsedDuration": 2888.274,
+      "elevationGain": 0.0,
+      "elevationLoss": 0.0,
+      "maxElevation": -63.4,
+      "minElevation": -69.2,
+      "averageSpeed": 0.0,
+      "calories": 577.0,
+      "averageHR": 127.0,
+      "maxHR": 158.0,
+      "averageTemperature": 26.730395558639835,
+      "maxTemperature": 30.0,
+      "minTemperature": 25.0,
+      "trainingEffect": 2.9000000953674316,
+      "maxVerticalSpeed": 0.7000007629394531,
+      "lapIndex": 1,
+      "lengthDTOs": [],
+      "connectIQMeasurement": []
+    }
+  ],
+  "eventDTOs": [
+    {
+      "startTimeGMT": "2026-10-21T11:04:18.0",
+      "startTimeGMTDoubleValue": 1792580658000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-21T11:04:19.0",
+      "startTimeGMTDoubleValue": 1792580659000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-21T11:09:01.0",
+      "startTimeGMTDoubleValue": 1792580941000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-21T11:09:04.0",
+      "startTimeGMTDoubleValue": 1792580944000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-21T11:35:43.0",
+      "startTimeGMTDoubleValue": 1792582543000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-21T11:35:46.0",
+      "startTimeGMTDoubleValue": 1792582546000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    }
+  ]
+}
