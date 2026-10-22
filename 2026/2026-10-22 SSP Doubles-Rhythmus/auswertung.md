@@ -20,11 +20,11 @@ Die Uhr hat trotz Workout-Steuerung weder Laps noch Splits geliefert (Indoor Car
 | Rd | Lauf (Fenster) | Lauf HF Ø | Lauf HF max | HF Lauf-Ende | Station | Station HF Ø | Station HF max | Runde HF max | Pause-Tief |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | 10:05–12:15 | 144 | 159 | 155 | 250 m Ski 1:50 /500 m (55 s) | 159 | 164 | 164 | 116 |
-| 2 | 14:10–16:20 | 146 | 160 | 156 | 25 m Sled Push | 153 | 155 | 160 | 128 |
+| 2 | 14:10–16:20 | 146 | 160 | 156 | 25 m Sled Push 152 kg | 153 | 155 | 160 | 128 |
 | 3 | 18:20–20:25 | 150 | 163 | 162 | 20 m BBJ | 154 | 163 | 163 | 130 |
 | 4 | 22:50–25:05 | (133) | 150 | 146 | 250 m Row 1:45 /500 m (52,5 s) | 157 | 161 | 161 | 131 |
-| 5 | 27:00–29:10 | 151 | 165 | 162 | 25 m Lunges | 165 | 167 | 167 | 131 |
-| 6 | 31:00–33:00 | 149 | 166 | 161 | 25 Wall Balls | 171 | 176 | 176 | 138 |
+| 5 | 27:00–29:10 | 151 | 165 | 162 | 25 m Lunges 20 kg | 165 | 167 | 167 | 131 |
+| 6 | 31:00–33:00 | 149 | 166 | 161 | 25 Wall Balls 6 kg | 171 | 176 | 176 | 138 |
 
 Alle sechs Läufe 500 m bei 16,4 km/h, also 3:40 min/km und 1:50 je 500 m, am unteren Rand der Vorgabe 3:40–3:45.
 
@@ -38,11 +38,11 @@ Alle sechs Läufe 500 m bei 16,4 km/h, also 3:40 min/km und 1:50 je 500 m, am un
 
 ## 5. Kurzfazit
 
-Rhythmus-Einheit wie vorgegeben durchgezogen, Lauf-Pace mit 3:40 exakt am schnellen Ende des Fensters und über alle sechs Runden gleich. Die HF bleibt in den Läufen bei 155–162 (Z2/Z3 nach Coach-Zonen) und erreicht nur an den Stationen Z4/Z5, mit 176 bei den Wall Balls zum Schluss. Erholung in den 60-s-Pausen konstant auf etwa 130, kein Drift nach oben. Das Lauftempo entspricht der Doubles-Race-Pace aus der Prognose (4:10 wäre Solo, 3:40 im Wechsel mit Stefan), und der Körper kommt damit bei 60–75 s Station gut klar.
+Rhythmus-Einheit wie vorgegeben durchgezogen, Lauf-Pace mit 3:40 exakt am schnellen Ende des Fensters und über alle sechs Runden gleich. Die HF bleibt in den Läufen bei 155–162 (Z2/Z3 nach Coach-Zonen) und erreicht nur an den Stationen Z4/Z5, mit 176 bei den Wall Balls zum Schluss. Erholung in den 60-s-Pausen konstant auf etwa 130, kein Drift nach oben. Das Lauftempo entspricht der Doubles-Race-Pace aus der Prognose (4:10 wäre Solo, 3:40 im Wechsel mit Stefan), und der Körper kommt damit bei 60–75 s Station gut klar. RPE 5 bei Vorgabe 7, wie schon bei den drei Schwelleneinheiten davor: die Lauf-Vorgaben sind derzeit eher zu leicht.
 
 ## Hinweise
 
 - Keine Laps/Splits von der Uhr; Zuordnung aus dem HF-Verlauf (±15 s).
 - Laufband 16,4 km/h, Row 1:45 /500 m, Ski 1:50 /500 m: Angaben des Nutzers, nicht aus Logbook oder Uhr.
 - Keine Concept2-Logbook-Einträge für die 250-m-Stücke.
-- Offen: RPE, ob Sled Push mit 152 kg oder Ersatz 10 BBJ, Gewichte Lunges/Wall Ball wie Vorgabe (20 kg / 6 kg).
+- RPE 5 (Nutzer: „die Läufe fielen mir leicht“), Vorgabe 7. Sled Push mit 152 kg, Lunges 20 kg, Wall Balls 6 kg (bestätigt).
