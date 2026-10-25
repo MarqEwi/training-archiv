@@ -49,7 +49,7 @@ Die Aufzeichnung endet 2:22 nach Lauf 8 bei HF 168; die Wall-Ball-Station wäre 
 
 - Läufe: alle acht bei 3:40 min/km, Vorgabe 3:40–3:45 am schnellen Rand getroffen und gehalten. HF am Laufende 146 / 166 / 169 / 167 / 161 / 173 / 172 / 170: ab Lauf 2 bei 161–173, mit den höchsten Werten nach Row/Carry/Lunges (Läufe 6–8). Lauf-HF Ø ab Lauf 2 bei 152–164.
 - Stationen: Spitzen 158 / 166 / 170 / 171 / 172 / 171 / 173 / 173, also ab Station 3 durchgehend Z4/Z5 (LTHR 174). HF-Tiefs in den Solo-Pausen 125–154, nach hinten raus weniger Erholung (Lunges 154, WB 150).
-- Ab Lauf 1 bis Ende: 38:16 bei HF Ø 158, 34 % der Zeit in Z5. Das ist Wettkampfintensität, nicht RPE 7.
+- Ab Lauf 1 bis Ende: 38:16 bei HF Ø 158, 34 % der Zeit in Z5. Nach HF ist das Wettkampfintensität; der Nutzer gibt RPE 6 an („fiel mir echt leicht“), das Empfinden liegt also deutlich unter dem, was die HF zeigt.
 - Verglichen mit dem SSP Doubles-Rhythmus vom 22.10. (gleiches Lauftempo, 60–75 s Station, Läufe Ø 155–162, max 176 nur bei WB) liegen heute die Lauf-End-HF um 5–10 Schläge höher, weil die Stationsanteile länger sind und die Pausen kürzer als die 60-s-Stand-Pause.
 
 ## 6. Kurzfazit
@@ -63,4 +63,4 @@ Der Doubles-Rhythmus funktioniert: 3:40 über acht Läufe gehalten, jeder Lauf m
 - Keine Concept2-Logbook-Einträge für Ski und Row.
 - Warm-up vor Lauf 1 4:23, Cooldown nicht aufgezeichnet; Aufzeichnung endet während der Wall-Ball-Station.
 - Zweite Aktivität „Hybrid“ 18:17, 2:30, HR Ø 151 / max 166: nicht zugeordnet.
-- RPE vom Nutzer noch offen.
+- RPE 6 (Nutzer: „fiel mir echt leicht“), Vorgabe 7–8.
