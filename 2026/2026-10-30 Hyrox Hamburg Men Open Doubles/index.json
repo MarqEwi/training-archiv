@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-30",
+  "titel": "Hyrox Hamburg Men Open Doubles",
+  "written_at": "2026-10-26T13:17:29",
+  "garmin": [],
+  "concept2": [],
+  "fotos": [
+    {
+      "file": "2026-10-30_foto-01.jpg",
+      "description": "Athlete-Intelligence-Raceplan vom 26.10., Teil 1 (Run 1 bis Run 6)",
+      "sha1": "866b26a9c852",
+      "source": "b8a0a822-image.jpg"
+    },
+    {
+      "file": "2026-10-30_foto-02.jpg",
+      "description": "Athlete-Intelligence-Raceplan vom 26.10., Teil 2 (Sled Pull bis Wall Balls)",
+      "sha1": "b8363e64ef34",
+      "source": "0386654f-image.jpg"
+    }
+  ],
+  "files": [],
+  "note": "Raceplan Athlete Intelligence 26.10.2026, Ziel 60:00 (Start 12:00): Laeufe 970/1015x6/848 m in 3:40/3:51/3:50x5/3:13 = 29:54 (3:47 min/km), Stationen Ski 4:11, Push 1:47, Pull 3:03, BBJ 2:47, Row 4:34, Farmers 1:35, Lunges 3:06, WB 4:09 = 25:12, Roxzone 4:54. Einschaetzung Claude: Push und BBJ je ca. 1:30 optimistisch, Row ca. 30 s konservativ, realistisch 61-62 min."
+}
