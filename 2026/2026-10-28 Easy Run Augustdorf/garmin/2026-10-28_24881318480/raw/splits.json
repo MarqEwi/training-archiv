@@ -1,0 +1,70 @@
+{
+  "activityId": 24881318480,
+  "lapDTOs": [
+    {
+      "startTimeGMT": "2026-10-28T12:47:19.0",
+      "startLatitude": 51.91737061366439,
+      "startLongitude": 8.769632326439023,
+      "distance": 4952.86,
+      "duration": 1646.719,
+      "movingDuration": 1646.719,
+      "elapsedDuration": 1646.719,
+      "elevationGain": 42.0,
+      "elevationLoss": 49.0,
+      "maxElevation": 236.2,
+      "minElevation": 188.8,
+      "averageSpeed": 3.007999897003174,
+      "averageMovingSpeed": 3.0077140549811925,
+      "maxSpeed": 4.031000137329102,
+      "calories": 472.0,
+      "averageHR": 145.0,
+      "maxHR": 170.0,
+      "averageRunCadence": 162.140625,
+      "maxRunCadence": 173.0,
+      "averageTemperature": 22.0,
+      "maxTemperature": 28.0,
+      "minTemperature": 20.0,
+      "groundContactTime": 287.1000061035156,
+      "groundContactBalanceLeft": 50.09000015258789,
+      "strideLength": 108.45,
+      "verticalOscillation": 9.76999969482422,
+      "verticalRatio": 8.989999771118164,
+      "endLatitude": 51.917914012447,
+      "endLongitude": 8.769725281745195,
+      "maxVerticalSpeed": 0.5999984741210938,
+      "lapIndex": 1,
+      "lengthDTOs": [],
+      "connectIQMeasurement": [],
+      "messageIndex": 0
+    }
+  ],
+  "eventDTOs": [
+    {
+      "startTimeGMT": "2026-10-28T12:47:18.0",
+      "startTimeGMTDoubleValue": 1793191638000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-28T12:47:19.0",
+      "startTimeGMTDoubleValue": 1793191639000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    },
+    {
+      "startTimeGMT": "2026-10-28T13:14:46.0",
+      "startTimeGMTDoubleValue": 1793193286000.0,
+      "sectionTypeDTO": {
+        "id": 4,
+        "key": "timerTrigger",
+        "sectionTypeKey": "TIMER_TRIGGER"
+      }
+    }
+  ]
+}
