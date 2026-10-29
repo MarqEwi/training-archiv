@@ -32,4 +32,4 @@ Lockerer Lauf zum Frischbleiben, wie es in die Rennwoche gehört: 27 min, HF unt
 ## Hinweise
 
 - Keine Vorgabe des Coaches bekannt, als freier Easy Run bewertet.
-- RPE vom Nutzer nicht angegeben.
+- RPE 2 (Nutzer).
