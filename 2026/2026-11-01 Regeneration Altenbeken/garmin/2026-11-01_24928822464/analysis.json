@@ -1,0 +1,148 @@
+{
+  "summary": {
+    "activity_id": 24928822464,
+    "name": "Altenbeken Laufen",
+    "type": "running",
+    "start_local": "2026-11-01T13:02:17.0",
+    "start_gmt": "2026-11-01T12:02:17.0",
+    "date": "2026-11-01",
+    "distance_m": 13909.55,
+    "duration_s": 5271.558,
+    "moving_duration_s": 5270.717,
+    "pace_s_per_km": 378.9883928667714,
+    "avg_hr": 126.0,
+    "max_hr": 155.0,
+    "avg_cadence_spm": 152.203125,
+    "elev_gain_m": 231.0,
+    "elev_loss_m": 245.0,
+    "calories": 1167.0,
+    "avg_power_w": null,
+    "aerobic_te": 3.0,
+    "anaerobic_te": 0.10000000149011612,
+    "vo2max": null,
+    "source": "garmin-connect-api",
+    "pace_str": "6:19",
+    "duration_str": "1:27:52"
+  },
+  "weather": {
+    "temp_c": 10.0,
+    "feels_like_c": 10.0,
+    "humidity_pct": 66,
+    "wind_kmh": 3.2,
+    "wind_dir": "n",
+    "condition": "Cloudy",
+    "raw_temp": 50,
+    "raw_wind": 2
+  },
+  "laps": [
+    {
+      "nr": 1,
+      "start_s": 0.0,
+      "end_s": 1371.7,
+      "distance_m": 2049.58,
+      "duration_s": 1371.717,
+      "moving_duration_s": 1371.717,
+      "pace_s_per_km": 669.2673620936973,
+      "avg_hr": 96.0,
+      "max_hr": 134.0,
+      "avg_cadence_spm": 115.09375,
+      "max_cadence_spm": 120.0,
+      "elev_gain_m": 134.0,
+      "elev_loss_m": 0.0,
+      "avg_power_w": null,
+      "intensity": null,
+      "workout_step": null,
+      "type": "normal",
+      "hr_start": 132,
+      "hr_end": 91,
+      "hr_rise": -41,
+      "pace_str": "11:09",
+      "duration_str": "22:52"
+    },
+    {
+      "nr": 2,
+      "start_s": 1373.0,
+      "end_s": 5272.8,
+      "distance_m": 11859.97,
+      "duration_s": 3899.841,
+      "moving_duration_s": 3899.0,
+      "pace_s_per_km": 328.82385031328073,
+      "avg_hr": 136.0,
+      "max_hr": 155.0,
+      "avg_cadence_spm": 165.265625,
+      "max_cadence_spm": 180.0,
+      "elev_gain_m": 97.0,
+      "elev_loss_m": 245.0,
+      "avg_power_w": null,
+      "intensity": null,
+      "workout_step": null,
+      "type": "normal",
+      "hr_start": 97,
+      "hr_end": 110,
+      "hr_rise": 13,
+      "pace_str": "5:29",
+      "duration_str": "1:05:00"
+    }
+  ],
+  "lap_classification_source": "pace",
+  "is_interval_session": false,
+  "intervals": {
+    "count": 0
+  },
+  "hr_zones": [
+    {
+      "zone": 1,
+      "seconds": 1113.546,
+      "low_bpm": 106,
+      "minutes": 18.6,
+      "percent": 28.3
+    },
+    {
+      "zone": 2,
+      "seconds": 2102.006,
+      "low_bpm": 132,
+      "minutes": 35.0,
+      "percent": 53.4
+    },
+    {
+      "zone": 3,
+      "seconds": 723.002,
+      "low_bpm": 145,
+      "minutes": 12.1,
+      "percent": 18.4
+    },
+    {
+      "zone": 4,
+      "seconds": 0.0,
+      "low_bpm": 156,
+      "minutes": 0.0,
+      "percent": 0.0
+    },
+    {
+      "zone": 5,
+      "seconds": 0.0,
+      "low_bpm": 164,
+      "minutes": 0.0,
+      "percent": 0.0
+    }
+  ],
+  "timeseries_points": 1684,
+  "timeseries_columns": [
+    "cadence_spm",
+    "distance_m",
+    "elapsed_s",
+    "elev_m",
+    "gct_ms",
+    "hr",
+    "moving_s",
+    "pace_s_per_km",
+    "speed_m_s",
+    "stride_cm",
+    "t_s",
+    "temp_c",
+    "timestamp",
+    "timestamp_ms",
+    "vert_osc_mm"
+  ],
+  "notes": []
+}
