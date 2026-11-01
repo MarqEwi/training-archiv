@@ -43,5 +43,5 @@ Von der Intensität her Regeneration (HF unter 148 bis auf den Anstieg), vom Umf
 ## Hinweise
 
 - Mobility (10–15 min) nicht in Garmin, nicht bewertet.
-- RPE vom Nutzer nicht angegeben.
+- RPE 3 (Nutzer).
 - Rennen 30.10. (Garmin 24906492078 „Racemode - HYROX“, 1:02:53, HR Ø 165 / max 178, 9,9 km, Laps vorhanden) noch nicht ausgewertet.
